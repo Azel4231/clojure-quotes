@@ -45,9 +45,11 @@
 (defn markdown [m]
   (apply str (for [[name quotes] m]
                (let [quotee (or name "Unknown")]
-                 (str "\n\n ## " quotee "\n\n"
+                 (str "\n\n ## " quotee "\n"
                       (apply str (for [{text ::text {url ::url time ::time} ::reference} quotes]
-                                   (format "- \"%s\" - %s \n" text quotee))))))))
+                                   (str (format "\n- \"%s\" - %s" text quotee)
+                                        (when url (str (format  "\n[%s](%s)" url url)
+                                                       (when time (format " (%s)\n" time))))))))))))
 
 (defn generate [quotes gen-f out-file]
   (->> (conform! ::quotes quotes)
@@ -60,4 +62,4 @@
 
 #_(generate (read-quotes) html "generated.html")
 
-#_(generate (read-quotes) markdown "generated.md")
+(generate (read-quotes) markdown "generated.md")

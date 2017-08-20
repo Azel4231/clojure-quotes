@@ -1,6 +1,6 @@
 # clojure-quotes
 
-My favorite Clojure quotes + a Clojure program to generate them as an html document
+My favorite Clojure quotes + a Clojure program to generate them as markdown and html documents
 
 ## Q&A
 
