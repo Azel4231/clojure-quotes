@@ -27,7 +27,7 @@
       (throw (RuntimeException. (s/explain-str spec data)))
       conformed)))
 
-(defn to-html [m]
+(defn to-hiccup [m]
   [:body [:div (for [[name quotes] m]
                  (let [quotee (or name "Unknown")]
                    [:div [:h2 quotee]
@@ -37,15 +37,27 @@
                                        [:a {:href url} url]
                                        (when time (format  " (%s)" time))])])]]))]])
 
-(defn generate-html [coll]
-  (->> coll
-       (group-by ::quotee)
-       to-html
+(defn html [m]
+  (->> m
+       to-hiccup
        h/html))
 
-(defn generate [quotes]
-  (->> (conform! ::quotes quotes)
-       generate-html
-       (spit "generated.html")))
+(defn markdown [m]
+  (apply str (for [[name quotes] m]
+               (let [quotee (or name "Unknown")]
+                 (str "\n\n ## " quotee "\n\n"
+                      (apply str (for [{text ::text {url ::url time ::time} ::reference} quotes]
+                                   (format "- \"%s\" - %s \n" text quotee))))))))
 
-(generate (read-quotes))
+(defn generate [quotes gen-f out-file]
+  (->> (conform! ::quotes quotes)
+       (group-by ::quotee)
+       gen-f
+       (spit out-file)))
+
+
+(clojure.set/rename-keys {:a "A" nil "B"}  {nil "Unknown"} )
+
+#_(generate (read-quotes) html "generated.html")
+
+#_(generate (read-quotes) markdown "generated.md")
