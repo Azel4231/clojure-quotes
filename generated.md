@@ -280,6 +280,7 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
  ## Adrien Cockroft
 
 - "A lot of the best programmers and the most productive programmers I know are writing everything in Clojure and swearing by it, and then just producing ridiculously sophisticated things in a very short time. And that programmer productivity matters." - Adrien Cockroft
+[https://thenewstack.io/the-new-stack-makers-adrian-cockcroft-on-sun-netflix-clojure-go-docker-and-more/](https://thenewstack.io/the-new-stack-makers-adrian-cockcroft-on-sun-netflix-clojure-go-docker-and-more/)
 
  ## Stuart Halloway
 

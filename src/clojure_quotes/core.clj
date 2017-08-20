@@ -42,6 +42,7 @@
        to-hiccup
        h/html))
 
+(comment "The solution would be simpler if I had generated markdown from hiccup data structures. Was too lazy though. Maybe some other time.")
 (defn markdown [m]
   (apply str (for [[name quotes] m]
                (let [quotee (or name "Unknown")]
@@ -58,8 +59,7 @@
        (spit out-file)))
 
 
-(clojure.set/rename-keys {:a "A" nil "B"}  {nil "Unknown"} )
-
 #_(generate (read-quotes) html "generated.html")
 
-(generate (read-quotes) markdown "generated.md")
+#_(generate (read-quotes) markdown "generated.md")
+
