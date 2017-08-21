@@ -207,34 +207,34 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://youtu.be/bxLnpgnDApg?t=1895](https://youtu.be/bxLnpgnDApg?t=1895)
 - "With Clojure you are bringing a gun to a knifefight" - Neal Ford
 
- ## Robert Struttaford
+ ## Robert Stuttaford
 
 - "If you think about the grand mission that I think Rich [Hickey] has. And again I maybe putting words in his mouth here, but I think he's trying to solve programming. 
-" - Robert Struttaford
+" - Robert Stuttaford
 [https://soundcloud.com/defn-771544745/7-dataomic-with-robert-stuttaford](https://soundcloud.com/defn-771544745/7-dataomic-with-robert-stuttaford) (43:20)
 
-- "When I found this Clojure thing, and saw this extreme focus on simplicity. It felt like the way. The capital doubly way." - Robert Struttaford
+- "When I found this Clojure thing, and saw this extreme focus on simplicity. It felt like the way. The capital doubly way." - Robert Stuttaford
 [https://soundcloud.com/defn-771544745/7-dataomic-with-robert-stuttaford](https://soundcloud.com/defn-771544745/7-dataomic-with-robert-stuttaford) (16:25)
 
-- "It really felt to me very quickly, once I got my head around the basics, that is was gonna be more risky not to use this language than to use it." - Robert Struttaford
+- "It really felt to me very quickly, once I got my head around the basics, that is was gonna be more risky not to use this language than to use it." - Robert Stuttaford
 [https://zadevchat.io/27/](https://zadevchat.io/27/) (16:40)
 
-- "I'll be very honest. Clojure did not map to the way I thought about the world, it mapped to the way I wanted to think about the world. It was very much an unlearning not a learning." - Robert Struttaford
+- "I'll be very honest. Clojure did not map to the way I thought about the world, it mapped to the way I wanted to think about the world. It was very much an unlearning not a learning." - Robert Stuttaford
 [https://zadevchat.io/27/](https://zadevchat.io/27/) (27:05)
 
-- "If you work with data, that's a great fit. And we all work with data, right?" - Robert Struttaford
+- "If you work with data, that's a great fit. And we all work with data, right?" - Robert Stuttaford
 [https://zadevchat.io/27/](https://zadevchat.io/27/) (42:05)
 
-- "[With Datomic] you forget that time is passing, because you don't worry about it anymore." - Robert Struttaford
+- "[With Datomic] you forget that time is passing, because you don't worry about it anymore." - Robert Stuttaford
 [https://zadevchat.io/27/](https://zadevchat.io/27/) (1:01:45)
 
-- "I've been using it for four years now and it still blows the top of my head off." - Robert Struttaford
+- "I've been using it for four years now and it still blows the top of my head off." - Robert Stuttaford
 [https://zadevchat.io/27/](https://zadevchat.io/27/) (1:01:50)
 
-- "It's immutable because it's immutable. It's a bit tautological." - Robert Struttaford
+- "It's immutable because it's immutable. It's a bit tautological." - Robert Stuttaford
 [https://zadevchat.io/48/](https://zadevchat.io/48/) (43:46)
 
-- "I would highly recommend anybody who's already in the JVM space, I pretty much think you should stop what you're doing and take a look right now. Because it's almost certainly gonna solve a whole world of hurt you may already find yourself in." - Robert Struttaford
+- "I would highly recommend anybody who's already in the JVM space, I pretty much think you should stop what you're doing and take a look right now. Because it's almost certainly gonna solve a whole world of hurt you may already find yourself in." - Robert Stuttaford
 [https://zadevchat.io/48/](https://zadevchat.io/48/) (1:06:23)
 
 
