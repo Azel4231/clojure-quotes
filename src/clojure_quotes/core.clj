@@ -59,7 +59,7 @@
        (spit out-file)))
 
 
-(generate (read-quotes) html "generated.html")
-
-(generate (read-quotes) markdown "generated.md")
+(defn -main []
+  #_(generate (read-quotes) html "generated.html")
+  (generate (read-quotes) markdown "generated.md"))
 
