@@ -59,7 +59,7 @@
        (spit out-file)))
 
 
-#_(generate (read-quotes) html "generated.html")
+(generate (read-quotes) html "generated.html")
 
-#_(generate (read-quotes) markdown "generated.md")
+(generate (read-quotes) markdown "generated.md")
 

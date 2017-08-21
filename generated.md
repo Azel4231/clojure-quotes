@@ -31,10 +31,14 @@ Similarly the flipside of that is: to the extent you have broken up your problem
 [https://youtu.be/rI8tNMsozo0?t=1388](https://youtu.be/rI8tNMsozo0?t=1388)
 - "I saw someone that was advocating that people should design their systems as systems of systems right from the get-go. Like: 'make it into six services in the first iteration'. And I said to that person: 'Wow, that seems like a lot of forethought! Why can't people morph from one system to a system of systems?'. And he said: 'You know, because of their languages and how they use them'." - Rich Hickey
 [https://www.youtube.com/watch?feature=player_detailpage&v=rI8tNMsozo0#t=1913](https://www.youtube.com/watch?feature=player_detailpage&v=rI8tNMsozo0#t=1913)
+- "We can make the same software we're making today with dramatically simpler stuff." - Rich Hickey
+[https://youtu.be/rI8tNMsozo0?t=1163](https://youtu.be/rI8tNMsozo0?t=1163)
+- "If you want everything to be familiar, you'll never learn anything new" - Rich Hickey
+[https://youtu.be/rI8tNMsozo0?t=1088](https://youtu.be/rI8tNMsozo0?t=1088)
 - "Simplicity enables change. I think it is the primary source of real agility. Agility means to do something. It doesn't mean to do it over." - Rich Hickey
 [https://youtu.be/rI8tNMsozo0?t=2115](https://youtu.be/rI8tNMsozo0?t=2115)
-- "When you have a complex system you are applying the process to pushing elephants. And how good can you get at it?" - Rich Hickey
-[Simplicity Matters](Simplicity Matters)
+- "If you've got the complexity elephant over there, you are applying the process to pushing elephants. And how good can you get at it?" - Rich Hickey
+[https://youtu.be/rI8tNMsozo0?t=609](https://youtu.be/rI8tNMsozo0?t=609)
 - "When later in my career I learned lisp, I saw people building very interesting systems out of much, much simpler stuff." - Rich Hickey
 [https://youtu.be/VSdnJDO-xdg?t=1340](https://youtu.be/VSdnJDO-xdg?t=1340)
 - "And I said... Well I can't repeat it, but I was very unhappy. Basically something to the effect of 'I have been wasting my time and my career, doing what I've been doing. And need to do something, I need to change what I'm doing. Because I'm wasting my time, I'm wasting my life doing it this way.'" - Rich Hickey

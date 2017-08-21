@@ -10,7 +10,7 @@ A: [Here](generated.md)
 
 Q: References are lacking
 
-A: I know. Didn't write them down and forgot where I heard them. I accept pull requests though...
+A: I know. Didn't write all of them down and forgot where I heard them. I accept pull requests though...
 
 ## License
 
