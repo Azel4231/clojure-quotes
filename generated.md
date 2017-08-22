@@ -71,7 +71,7 @@ Similarly the flipside of that is: to the extent you have broken up your problem
 [http://blog.cognitect.com/cognicast/103](http://blog.cognitect.com/cognicast/103) (18:08)
 
 - "Polymorphism a la carte completely changes the way you work" - Rich Hickey
-- "A Person class or an account class, that's a rediculous thing. You can't change an account any more than you can change the day of the week." - Rich Hickey
+- "A Person class or an account class, that's a ridiculous thing. You can't change an account any more than you can change the day of the week." - Rich Hickey
 [https://youtu.be/hb3rurFxrZ8?t=2106](https://youtu.be/hb3rurFxrZ8?t=2106)
 - "Place itself has no role in an informationmodel. It is only an implementation detail. If you're elevating place to a first class thing in your information model, it's only an 'information model', it's pretend, it's not doing its job." - Rich Hickey
 [https://www.infoq.com/presentations/Value-Values](https://www.infoq.com/presentations/Value-Values) (15:23)
@@ -84,7 +84,7 @@ Similarly the flipside of that is: to the extent you have broken up your problem
 
 - "Java programmers and OO programmers have been kicking SQL. 'It requires ObjectRelationalMapping, and that's like a problem with SQL'. No! It's a problem with objects." - Rich Hickey
 [https://youtu.be/VSdnJDO-xdg?t=2263](https://youtu.be/VSdnJDO-xdg?t=2263)
-- "Objects are not the way the world works. Nothing in the world works that way. People don't hand their strings out to other people to start yanking on them. 'so that's how we're gonna have a soccer team: we're gonna have a reference to somebody else. You call pass to me. And we build this big spaghetti nightmare.'. This is completely not the way the world works. This is not how physics works. We say objects are a way to model the real world? It's not at all. It's a complete programming fabrication. It's not very realistic. It's not a good fit for almost anything." - Rich Hickey
+- "Objects are not the way the world works. Nothing in the world works that way. People don't hand their strings out to other people to start yanking on them. So that's how we're gonna have a soccer team: we're gonna have a reference to somebody else. You call pass to me. And we build this big spaghetti nightmare. This is completely not the way the world works. This is not how physics works. We say objects are a way to model the real world? It's not at all. It's a complete programming fabrication. It's not very realistic. It's not a good fit for almost anything." - Rich Hickey
 [https://youtu.be/VSdnJDO-xdg?t=2274](https://youtu.be/VSdnJDO-xdg?t=2274)
 - "How many times did I say 'immutability' in this talk? Immutability rocks. One of the things that are very interesting about that is: you cannot correctly represent change without immutability. It's a profound idea. It's not my idea. It's just an essential characteristic of the universe. But it really needs to be recognized in our architectures." - Rich Hickey
 [https://www.infoq.com/presentations/The-Design-of-Datomic](https://www.infoq.com/presentations/The-Design-of-Datomic) (53:40)
@@ -153,7 +153,8 @@ Similarly the flipside of that is: to the extent you have broken up your problem
 [https://youtu.be/dGVqrGmwOAw?t=1407](https://youtu.be/dGVqrGmwOAw?t=1407)
 - "Clojure solves the problem that you don't know you have." - Rich Hickey
 [https://youtu.be/oyLBGkS5ICk?t=2692](https://youtu.be/oyLBGkS5ICk?t=2692)
-- "Do we need sugar for JavaScript [in Clojure(Script)]? No! Clojure is like chocolate with whipped cream and cherries and everything. And we have macros - they are like your own hot fudge machine." - Rich Hickey
+- "Now, we're in ClojureScript. Do we need sugar for JavaScript? We're like chocolate syrup for JavaScript...with whipped cream and cherries and sprinkles and everything! Right. So we do not need sugar for JavaScript. And we have macros - which is like your own hot fudge machine." - Rich Hickey
+[https://www.youtube.com/watch?v=tVooR-dF_Ag&t=1h15m30s](https://www.youtube.com/watch?v=tVooR-dF_Ag&t=1h15m30s)
 - "Learning requires inefficiency" - Rich Hickey
 [http://www.infoq.com/presentations/design-composition-performance-keynote](http://www.infoq.com/presentations/design-composition-performance-keynote) (35:00)
 
