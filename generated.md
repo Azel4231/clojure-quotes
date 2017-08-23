@@ -15,7 +15,7 @@
 - "Multiple taxonomies in a single program. That's easy in Clojure." - Rich Hickey
 [https://youtu.be/dGVqrGmwOAw?t=1110](https://youtu.be/dGVqrGmwOAw?t=1110)
 - "Design is to take things apart in such a way that they can be put back together" - Rich Hickey
-- "Design is seperating into things that can be composed." - Rich Hickey
+- "Design is separating into things that can be composed." - Rich Hickey
 - "Every time I encounter something I can boil it down to that. Every time I encounter something that I wish my design was better, I need to do more of this [take things apart]. Over and over again. I did not take it apart enough." - Rich Hickey
 - "Design helps extension. To the extent that you have broken things into separate parts, with an eye towards connecting them back together, it means that your resulting design is gonna have connection points. And when you want your system to do something new, it will be possible to do it, because there's something there. That's why design is not just about accreting up to an answer. Because when you do that you don't end up with any connecting points. And you don't end up with any building blocks. And you can't really extend that thing. 
 Similarly the flipside of that is: to the extent you have broken up your problem into reusable parts and composed them, those parts may be sparable from your design and useful in another context. And that's how we get reuse. Reuse comes from design, it doesn't come from language constructs or anything like that." - Rich Hickey
@@ -43,7 +43,7 @@ Similarly the flipside of that is: to the extent you have broken up your problem
 [https://youtu.be/VSdnJDO-xdg?t=1340](https://youtu.be/VSdnJDO-xdg?t=1340)
 - "And I said... Well I can't repeat it, but I was very unhappy. Basically something to the effect of 'I have been wasting my time and my career, doing what I've been doing. And need to do something, I need to change what I'm doing. Because I'm wasting my time, I'm wasting my life doing it this way.'" - Rich Hickey
 [https://youtu.be/VSdnJDO-xdg?t=1353](https://youtu.be/VSdnJDO-xdg?t=1353)
-- "Easyness will eventually slow you down" - Rich Hickey
+- "Easiness will eventually slow you down" - Rich Hickey
 [https://www.infoq.com/presentations/Simple-Made-Easy](https://www.infoq.com/presentations/Simple-Made-Easy) (17:15)
 
 - "This is the 'Information non-problem': Information is simple. This is a problem we create for ourselves. Because we ruin it by wrapping it in classes." - Rich Hickey
@@ -103,7 +103,7 @@ Similarly the flipside of that is: to the extent you have broken up your problem
 [https://www.youtube.com/watch?v=dGVqrGmwOAw&feature=youtu.be&t=1272](https://www.youtube.com/watch?v=dGVqrGmwOAw&feature=youtu.be&t=1272)
 - "Mutable objects are the new Spaghetti code" - Rich Hickey
 [https://youtu.be/dGVqrGmwOAw?t=1322](https://youtu.be/dGVqrGmwOAw?t=1322)
-- "Eventually, with mutable objects you create an intractable mess. And incapsulation does not get rid of that. Incapsulation only means: 'well I'm in charge of this mess'." - Rich Hickey
+- "Eventually, with mutable objects you create an intractable mess. And encapsulation does not get rid of that. Encapsulation only means: 'well I'm in charge of this mess'." - Rich Hickey
 [https://youtu.be/dGVqrGmwOAw?t=1325](https://youtu.be/dGVqrGmwOAw?t=1325)
 - "Every single language that allows for mutable objects has the problem that there is no standard time management." - Rich Hickey
 [http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) (10:00)
