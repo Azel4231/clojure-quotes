@@ -71,7 +71,7 @@ Similarly the flipside of that is: to the extent you have broken up your problem
 [http://blog.cognitect.com/cognicast/103](http://blog.cognitect.com/cognicast/103) (18:08)
 
 - "Polymorphism a la carte completely changes the way you work" - Rich Hickey
-- "A Person class or an account class, that's a rediculous thing. You can't change an account any more than you can change the day of the week." - Rich Hickey
+- "A Person class or an account class, that's a ridiculous thing. You can't change an account any more than you can change the day of the week." - Rich Hickey
 [https://youtu.be/hb3rurFxrZ8?t=2106](https://youtu.be/hb3rurFxrZ8?t=2106)
 - "Place itself has no role in an informationmodel. It is only an implementation detail. If you're elevating place to a first class thing in your information model, it's only an 'information model', it's pretend, it's not doing its job." - Rich Hickey
 [https://www.infoq.com/presentations/Value-Values](https://www.infoq.com/presentations/Value-Values) (15:23)
@@ -153,7 +153,8 @@ Similarly the flipside of that is: to the extent you have broken up your problem
 [https://youtu.be/dGVqrGmwOAw?t=1407](https://youtu.be/dGVqrGmwOAw?t=1407)
 - "Clojure solves the problem that you don't know you have." - Rich Hickey
 [https://youtu.be/oyLBGkS5ICk?t=2692](https://youtu.be/oyLBGkS5ICk?t=2692)
-- "Do we need sugar for JavaScript [in Clojure(Script)]? No! Clojure is like chocolate with whipped cream and cherries and everything. And we have macros - they are like your own hot fudge machine." - Rich Hickey
+- "Now, we're in ClojureScript. Do we need sugar for JavaScript? We're like chocolate syrup for JavaScript...with whipped cream and cherries and sprinkles and everything! Right. So we do not need sugar for JavaScript. And we have macros - which is like your own hot fudge machine." - Rich Hickey
+[https://www.youtube.com/watch?v=tVooR-dF_Ag&t=1h15m30s](https://www.youtube.com/watch?v=tVooR-dF_Ag&t=1h15m30s)
 - "Learning requires inefficiency" - Rich Hickey
 [http://www.infoq.com/presentations/design-composition-performance-keynote](http://www.infoq.com/presentations/design-composition-performance-keynote) (35:00)
 
