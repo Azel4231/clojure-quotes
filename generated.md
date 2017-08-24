@@ -18,7 +18,7 @@
 - "Design is separating into things that can be composed." - Rich Hickey
 - "Every time I encounter something I can boil it down to that. Every time I encounter something that I wish my design was better, I need to do more of this [take things apart]. Over and over again. I did not take it apart enough." - Rich Hickey
 - "Design helps extension. To the extent that you have broken things into separate parts, with an eye towards connecting them back together, it means that your resulting design is gonna have connection points. And when you want your system to do something new, it will be possible to do it, because there's something there. That's why design is not just about accreting up to an answer. Because when you do that you don't end up with any connecting points. And you don't end up with any building blocks. And you can't really extend that thing. 
-Similarly the flipside of that is: to the extent you have broken up your problem into reusable parts and composed them, those parts may be sparable from your design and useful in another context. And that's how we get reuse. Reuse comes from design, it doesn't come from language constructs or anything like that." - Rich Hickey
+Similarly the flipside of that is: to the extent you have broken up your problem into reusable parts and composed them, those parts may be separable from your design and useful in another context. And that's how we get reuse. Reuse comes from design, it doesn't come from language constructs or anything like that." - Rich Hickey
 [https://www.infoq.com/presentations/Design-Composition-Performance](https://www.infoq.com/presentations/Design-Composition-Performance) (11:35)
 
 - "It's something we don't think about often enough. In our programming designs and in our systems, about the actual costs of specificity. We love specificity. When we use Java every new idea gets a new class. What does that cause to happen? You get this explosion of code! Objects were supposed to support reuse, they have done the exact opposite thing. Especially in typed languages. You get very little reuse, because you make a new thing every time. " - Rich Hickey
@@ -50,7 +50,7 @@ Similarly the flipside of that is: to the extent you have broken up your problem
 - "Encapsulation is for implementation details, but information doesn't have implementation!" - Rich Hickey
 - "In OO, our fundamental construct, the Object conflates two things. Process, for which objects are an ok approach, and information for which they are a terrible, terrible, terrible approach." - Rich Hickey
 [https://www.youtube.com/watch?v=VSdnJDO-xdg&feature=youtu.be&t=925](https://www.youtube.com/watch?v=VSdnJDO-xdg&feature=youtu.be&t=925)
-- "There's a tiny little benefit: dot works in you IDE. Woohoo! Oh my goodness, cause I could never remember that [specific class API]. Something better happen when I press dot, because I'm doomed otherwise." - Rich Hickey
+- "There's a tiny little benefit: dot works in your IDE. Woohoo! Oh my goodness, cause I could never remember that [specific class API]. Something better happen when I press dot, because I'm doomed otherwise." - Rich Hickey
 [https://youtu.be/VSdnJDO-xdg?t=3129](https://youtu.be/VSdnJDO-xdg?t=3129)
 - "Programs are increasingly about code, and decreasingly about data. And I think that is a mistake." - Rich Hickey
 [https://youtu.be/VSdnJDO-xdg?t=955](https://youtu.be/VSdnJDO-xdg?t=955)
@@ -65,9 +65,9 @@ Similarly the flipside of that is: to the extent you have broken up your problem
 - "Our programming house is like a hoarder's delight: there's too much stuff in it everything is too big. We need too many people to do basic things." - Rich Hickey
 [https://youtu.be/VSdnJDO-xdg?t=3340](https://youtu.be/VSdnJDO-xdg?t=3340)
 - "Why did you do that [using object's to represent data]? The answer could be: 'I was using Java, and I had no choice'. That's not a great answer. But it might be the truth." - Rich Hickey
-- "Nobody wants to program with mutable strings any more, why do you want to program with mutable collections? " - Rich Hickey
+- "Nobody wants to program with mutable strings anymore, why do you want to program with mutable collections? " - Rich Hickey
 [https://youtu.be/-6BsiVyC1kM?t=897](https://youtu.be/-6BsiVyC1kM?t=897)
-- "It's pretty easy to underestimate how much this is costing us in software development. I think it's basically a catastrophy - the way we approach aggregates. It's something I would really like to fix." - Rich Hickey
+- "It's pretty easy to underestimate how much this is costing us in software development. I think it's basically a catastrophe- the way we approach aggregates. It's something I would really like to fix." - Rich Hickey
 [http://blog.cognitect.com/cognicast/103](http://blog.cognitect.com/cognicast/103) (18:08)
 
 - "Polymorphism a la carte completely changes the way you work" - Rich Hickey
@@ -147,7 +147,7 @@ Similarly the flipside of that is: to the extent you have broken up your problem
 
 - "By the time you're writing a service, there's nothing premature about abstraction." - Rich Hickey
 [https://youtu.be/ROor6_NGIWU?t=3643](https://youtu.be/ROor6_NGIWU?t=3643)
-- "Down in the small in a program you can overabstract, up here you can't" - Rich Hickey
+- "Down in the small in a program you can over-bstract, up here you can't" - Rich Hickey
 [https://youtu.be/ROor6_NGIWU?t=3658](https://youtu.be/ROor6_NGIWU?t=3658)
 - "Clojure is in a unique position in providing maybe the friendliest face ever presented to functional programming that's out there" - Rich Hickey
 [https://youtu.be/dGVqrGmwOAw?t=1407](https://youtu.be/dGVqrGmwOAw?t=1407)
@@ -163,7 +163,7 @@ I never knew that. I still do not know that.
 That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://www.infoq.com/presentations/Simple-Made-Easy](https://www.infoq.com/presentations/Simple-Made-Easy) (14:11)
 
-- "What goes in the cache? What form does it take? When does it get invalidated? Whose problem are all these questions? Yours! Your problem! Or maybe you're buying some fancy ORM that makes it your problem with another a layer ontop of your problem. Now you have two problems." - Rich Hickey
+- "What goes in the cache? What form does it take? When does it get invalidated? Whose problem are all these questions? Yours! Your problem! Or maybe you're buying some fancy ORM that makes it your problem with another a layer on op of your problem. Now you have two problems." - Rich Hickey
 [https://youtu.be/Cym4TZwTCNU?t=827](https://youtu.be/Cym4TZwTCNU?t=827)
 - "Instruments are made for people who can play them. Isn't that outrageous? Isn't that scandalous? The are made for people who can actually play them. And that's a problem. Because beginners can't play. They're not yet players. The don't know how to do it. Again, I think, there should be outrage on the internet. We should submit patches. We should fix like the Cello. Should Cellos auto-tune? Or maybe they should have red and green lights. It's green when you're in tune, it's red when you're not in tune. Or maybe they shouldn't make any sound at all until you get it right. Is that how it works? is that what we want? No, that's not how it works. Look at these kid's. They're being subjected to cellos. There's nothing helping them here. [...] They're smaller but those are real cellos. They're hard to play, they're awkward, the sound terrible. They're out of tune. It's gonna be tough for a while for these kids" - Rich Hickey
 [https://www.infoq.com/presentations/Design-Composition-Performance](https://www.infoq.com/presentations/Design-Composition-Performance) (32:00)
@@ -188,7 +188,7 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 
  ## Colin Fleming
 
-- "At the conceptual level of what the application is doing, it's nearly always a flow of data through your program. And how you're manipulation that data. And all the rest is just the noise around that. That is one of the big philosophical revelations that Clojure is helping with." - Colin Fleming
+- "At the conceptual level of what the application is doing, it's nearly always a flow of data through your program. And how you're manipulating that data. And all the rest is just the noise around that. That is one of the big philosophical revelations that Clojure is helping with." - Colin Fleming
 [http://talkingkotlin.com/Writing-A-Clojure-IDE-in-Kotlin-with-colin-fleming/](http://talkingkotlin.com/Writing-A-Clojure-IDE-in-Kotlin-with-colin-fleming/) (35:06)
 
 
@@ -237,7 +237,7 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://youtu.be/bxLnpgnDApg?t=1877](https://youtu.be/bxLnpgnDApg?t=1877)
 - "The two most sophisticated projects we have going on in the world right now, are both Clojure projects, on purpose. Because we think this is the only way these projects can be done." - Neal Ford
 [https://youtu.be/bxLnpgnDApg?t=1895](https://youtu.be/bxLnpgnDApg?t=1895)
-- "With Clojure you are bringing a gun to a knifefight" - Neal Ford
+- "With Clojure you are bringing a gun to a knife fight" - Neal Ford
 
  ## Alex Miller
 
