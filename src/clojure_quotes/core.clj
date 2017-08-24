@@ -2,7 +2,8 @@
   (:require [clojure.spec.alpha :as s]
             [hiccup.core :as h]
             [clojure.xml :as xml]
-            [clojure.edn :as edn]))
+            [clojure.edn :as edn]
+            [clojure.set :refer [rename-keys]]))
 
 
 (s/def ::quotes (s/coll-of ::quote))
@@ -28,14 +29,13 @@
       conformed)))
 
 (defn to-hiccup [m]
-  [:body [:div (for [[name quotes] m]
-                 (let [quotee (or name "Unknown")]
-                   [:div [:h2 quotee]
-                    [:ul (for [{text ::text {url ::url time ::time} ::reference} quotes]
-                           [:li (format "\"%s\" - %s" text quotee)
-                            (when url [:br
-                                       [:a {:href url} url]
-                                       (when time (format  " (%s)" time))])])]]))]])
+  [:body [:div (for [[quotee quotes] m]
+                 [:div [:h2 quotee]
+                  [:ul (for [{text ::text {url ::url time ::time} ::reference} quotes]
+                         [:li (format "\"%s\" - %s" text quotee)
+                          (when url [:br
+                                     [:a {:href url} url]
+                                     (when time (format  " (%s)" time))])])]])]])
 
 (defn html [m]
   (->> m
@@ -44,22 +44,30 @@
 
 (comment "The solution would be simpler if I had generated markdown from hiccup data structures. Was too lazy though. Maybe some other time.")
 (defn markdown [m]
-  (apply str (for [[name quotes] m]
-               (let [quotee (or name "Unknown")]
-                 (str "\n\n ## " quotee "\n"
-                      (apply str (for [{text ::text {url ::url time ::time} ::reference} quotes]
-                                   (str (format "\n- \"%s\" - %s" text quotee)
-                                        (when url (str (format  "\n[%s](%s)" url url)
-                                                       (when time (format " (%s)\n" time))))))))))))
+  (apply str (for [[quotee quotes] m]
+               (str "\n\n ## " quotee "\n"
+                    (apply str (for [{text ::text {url ::url time ::time} ::reference} quotes]
+                                 (str (format "\n- \"%s\" - %s" text quotee)
+                                      (when url (str (format  "\n[%s](%s)" url url)
+                                                     (when time (format " (%s)\n" time)))))))))))
 
-(defn generate [quotes gen-f out-file]
-  (->> (conform! ::quotes quotes)
+(defn lastname [name]
+  (last (clojure.string/split name #" ")))
+
+(defn process-quotes [quotes]
+  (->> quotes
        (group-by ::quotee)
-       gen-f
-       (spit out-file)))
+       (#(clojure.set/rename-keys % {nil "Unknown"}))
+       (sort-by (comp lastname key))))
 
+(defn generate [quotes gen-f]
+  (->> (conform! ::quotes quotes)
+       process-quotes
+       gen-f))
 
 (defn -main []
-  #_(generate (read-quotes) html "generated.html")
-  (generate (read-quotes) markdown "generated.md"))
+  #_(->> (generate (read-quotes) html)
+         (spit "generated.html"))
+  (->> (generate (read-quotes) markdown)
+       (spit "generated.md")))
 

@@ -5,10 +5,74 @@
 - "Clojure Spec is one of the most exciting things to happen in Clojure land, and probably programming in general, in a while." - Arne Brasseur
 [https://youtu.be/-MeOPF94LhI?t=23](https://youtu.be/-MeOPF94LhI?t=23)
 
- ## Falko Riemenschneider
+ ## Adrien Cockroft
 
-- "In a Clojure world external DSL tools, or specialized code generators will not have any future. They seem just like incidental complexity, required to make working with a broken language bearable. I know, most of us do not earn their money in the Clojure world. That makes these external meta tools valuable. But not desirable. " - Falko Riemenschneider
-[http://www.falkoriemenschneider.de/a__2013-07-04__Clojure-vs-MDSD.html](http://www.falkoriemenschneider.de/a__2013-07-04__Clojure-vs-MDSD.html)
+- "A lot of the best programmers and the most productive programmers I know are writing everything in Clojure and swearing by it, and then just producing ridiculously sophisticated things in a very short time. And that programmer productivity matters." - Adrien Cockroft
+[https://thenewstack.io/the-new-stack-makers-adrian-cockcroft-on-sun-netflix-clojure-go-docker-and-more/](https://thenewstack.io/the-new-stack-makers-adrian-cockcroft-on-sun-netflix-clojure-go-docker-and-more/)
+
+ ## Tim Ewald
+
+- "We often say we should use the right tool for the right job. And it's absolutely true. It's an interesting expression though. I haven't heard anyone apply it to a tool that they didn't like." - Tim Ewald
+[https://youtu.be/ShEez0JkOFw?t=95](https://youtu.be/ShEez0JkOFw?t=95)
+- "It's all just chisels. All the way down" - Tim Ewald
+[https://youtu.be/ShEez0JkOFw?t=702](https://youtu.be/ShEez0JkOFw?t=702)
+- "There's always a limit [to automated tools]. And it affects what you do." - Tim Ewald
+[https://youtu.be/ShEez0JkOFw?t=1539](https://youtu.be/ShEez0JkOFw?t=1539)
+- "The tools that you use shape how you look at the world." - Tim Ewald
+[https://youtu.be/ShEez0JkOFw?t=2502](https://youtu.be/ShEez0JkOFw?t=2502)
+- "I want tools that enable me do unique things. Tools that don't change my perspective. [...] And I believe Clojure is a perfect toolset for doing this." - Tim Ewald
+[https://youtu.be/ShEez0JkOFw?t=3286](https://youtu.be/ShEez0JkOFw?t=3286)
+- "IOC, the injection of complexity" - Tim Ewald
+[https://youtu.be/ShEez0JkOFw?t=3466](https://youtu.be/ShEez0JkOFw?t=3466)
+- "I'll be forever grateful to Rich for giving us a toolset that is mercilessly and mercifully simple. It's merciless in its pursuit of simplicity, and in giving us that, it's merciful to us." - Tim Ewald
+[https://www.youtube.com/watch?v=ShEez0JkOFw&feature=youtu.be&t=3471](https://www.youtube.com/watch?v=ShEez0JkOFw&feature=youtu.be&t=3471)
+
+ ## Colin Fleming
+
+- "At the conceptual level of what the application is doing, it's nearly always a flow of data through your program. And how you're manipulating that data. And all the rest is just the noise around that. That is one of the big philosophical revelations that Clojure is helping with." - Colin Fleming
+[http://talkingkotlin.com/Writing-A-Clojure-IDE-in-Kotlin-with-colin-fleming/](http://talkingkotlin.com/Writing-A-Clojure-IDE-in-Kotlin-with-colin-fleming/) (35:06)
+
+
+ ## Michael Fogus
+
+- "TDD. But not the one you think I'm talking about. [Test Driven Dentistry]. And what that means is: not everything should be test driven." - Michael Fogus
+[https://youtu.be/NnSpaR67hXg?t=642](https://youtu.be/NnSpaR67hXg?t=642)
+- "Do you ever feel like you're being boilerplated alive?" - Michael Fogus
+[https://youtu.be/0JXhJyTo5V8?t=2083](https://youtu.be/0JXhJyTo5V8?t=2083)
+- "Well-formed Data at rest is as close to perfection in programming as it gets. All the crap that had to happen to put it there however.." - Michael Fogus
+[https://twitter.com/fogus/status/454582953067438080](https://twitter.com/fogus/status/454582953067438080)
+
+ ## Neal Ford
+
+- "Clojure does for concurrency what Java did for memory management" - Neal Ford
+[https://youtu.be/bxLnpgnDApg?t=192](https://youtu.be/bxLnpgnDApg?t=192)
+- "To build a brand new language and use lisp syntax on the JVM, you either gotta be a crazy person, or got some really cool ulterior motive. I met Rich and he's not a crazy person." - Neal Ford
+[https://youtu.be/bxLnpgnDApg?t=269](https://youtu.be/bxLnpgnDApg?t=269)
+- "Meta-programming in Clojure is just programming" - Neal Ford
+[https://youtu.be/bxLnpgnDApg?t=1736](https://youtu.be/bxLnpgnDApg?t=1736)
+- "In Clojure, because the language is so bendable, you actually bend language towards the problem, not the problem towards the language." - Neal Ford
+[https://youtu.be/bxLnpgnDApg?t=1824](https://youtu.be/bxLnpgnDApg?t=1824)
+- "People ask me what projects I would choose Clojure for. The answer is: the nastiest, hardest, toughest kinds of projects possible. Because it's those projects where you need the ability to mold your language towards your problem, not vice versa" - Neal Ford
+[https://youtu.be/bxLnpgnDApg?t=1877](https://youtu.be/bxLnpgnDApg?t=1877)
+- "The two most sophisticated projects we have going on in the world right now, are both Clojure projects, on purpose. Because we think this is the only way these projects can be done." - Neal Ford
+[https://youtu.be/bxLnpgnDApg?t=1895](https://youtu.be/bxLnpgnDApg?t=1895)
+- "With Clojure you are bringing a gun to a knife fight" - Neal Ford
+
+ ## Stuart Halloway
+
+- "If you have more things than names, your design is broken" - Stuart Halloway
+[https://youtu.be/SNVbipqw3SM?t=987](https://youtu.be/SNVbipqw3SM?t=987)
+- "If there are more concepts than names [in a diagram], it's not simple yet" - Stuart Halloway
+[https://youtu.be/SNVbipqw3SM?t=687](https://youtu.be/SNVbipqw3SM?t=687)
+- "'This class remains empty, only used for the above annotations'. We know you're doing some good complexity when you find yourself having to say things like that" - Stuart Halloway
+[https://vimeo.com/77199361](https://vimeo.com/77199361) (7:30)
+
+- "Nothing says 'Screw You!' like a DSL" - Stuart Halloway
+[https://vimeo.com/77199361](https://vimeo.com/77199361) (8:00)
+
+- "All that stuff we have done about encoding data in the Clojure ecosystem and in the Datomic ecosystem wouldn't have to exist, if JSON didn't suck" - Stuart Halloway
+[http://www.datomic.com/day-of-datomic-2016-part-2.html](http://www.datomic.com/day-of-datomic-2016-part-2.html) (2:40)
+
 
  ## Rich Hickey
 
@@ -172,6 +236,17 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://www.infoq.com/presentations/Design-Composition-Performance](https://www.infoq.com/presentations/Design-Composition-Performance) (33:45)
 
 
+ ## Robert Martin
+
+- "What language is it that meets all the criteria? What language would I choose if I had to choose today? Probably Clojure!" - Robert Martin
+[https://youtu.be/qxYuvnjUTxM?t=3110](https://youtu.be/qxYuvnjUTxM?t=3110)
+
+ ## Alex Miller
+
+- "The data parts of Clojure are fantastic. They allow us to get an amount of reuse that I never saw in any OO system I reused. Which was always the promise: there's this object and I can use it in lots of different ways. And I have not found that to be the case in practice. Whereas I find that the data centric approach and the generic programming model that Clojure provides to provide a tremendous amount of reuse." - Alex Miller
+[https://www.infoq.com/presentations/clojure-spec](https://www.infoq.com/presentations/clojure-spec) (6:40)
+
+
  ## Micha Niskin
 
 - "For me Clojure is very unique. Things like boot, javelin and hoplon are very rewarding to me. They're things, as far as my use of them, professionally to make money and to get actual work done, they're pretty much done. They do everything we need them to do. And we're moving on, you know, we're thinking about other problems now. And we don't need to keep solving these problems. And I have never experienced that before using Clojure." - Micha Niskin
@@ -181,16 +256,21 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://s3.amazonaws.com/cognicast/shows/cognicast-111-das-boot.mp3](https://s3.amazonaws.com/cognicast/shows/cognicast-111-das-boot.mp3) (59:45)
 
 
- ## Robert Martin
+ ## Eric Normand
 
-- "What language is it that meets all the criteria? What language would I choose if I had to choose today? Probably Clojure!" - Robert Martin
-[https://youtu.be/qxYuvnjUTxM?t=3110](https://youtu.be/qxYuvnjUTxM?t=3110)
+- "That's the secret for making things composable: start with the composition - before you even define how the thing will work" - Eric Normand
+[https://youtu.be/jJIUoaIvD20?t=1516](https://youtu.be/jJIUoaIvD20?t=1516)
 
- ## Colin Fleming
+ ## Michael Nygard
 
-- "At the conceptual level of what the application is doing, it's nearly always a flow of data through your program. And how you're manipulating that data. And all the rest is just the noise around that. That is one of the big philosophical revelations that Clojure is helping with." - Colin Fleming
-[http://talkingkotlin.com/Writing-A-Clojure-IDE-in-Kotlin-with-colin-fleming/](http://talkingkotlin.com/Writing-A-Clojure-IDE-in-Kotlin-with-colin-fleming/) (35:06)
+- "This is why I say Datomic is more relational than Oracle. Because a value of a Datomic database IS a relation over the space of the possible values for that schema. And you go from one relation to another relation." - Michael Nygard
+[http://blog.cognitect.com/cognicast/034-michael-nygard](http://blog.cognitect.com/cognicast/034-michael-nygard) (27:05)
 
+
+ ## Falko Riemenschneider
+
+- "In a Clojure world external DSL tools, or specialized code generators will not have any future. They seem just like incidental complexity, required to make working with a broken language bearable. I know, most of us do not earn their money in the Clojure world. That makes these external meta tools valuable. But not desirable. " - Falko Riemenschneider
+[http://www.falkoriemenschneider.de/a__2013-07-04__Clojure-vs-MDSD.html](http://www.falkoriemenschneider.de/a__2013-07-04__Clojure-vs-MDSD.html)
 
  ## Robert Stuttaford
 
@@ -221,83 +301,3 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 
 - "I would highly recommend anybody who's already in the JVM space, I pretty much think you should stop what you're doing and take a look right now. Because it's almost certainly gonna solve a whole world of hurt you may already find yourself in." - Robert Stuttaford
 [https://zadevchat.io/48/](https://zadevchat.io/48/) (1:06:23)
-
-
- ## Neal Ford
-
-- "Clojure does for concurrency what Java did for memory management" - Neal Ford
-[https://youtu.be/bxLnpgnDApg?t=192](https://youtu.be/bxLnpgnDApg?t=192)
-- "To build a brand new language and use lisp syntax on the JVM, you either gotta be a crazy person, or got some really cool ulterior motive. I met Rich and he's not a crazy person." - Neal Ford
-[https://youtu.be/bxLnpgnDApg?t=269](https://youtu.be/bxLnpgnDApg?t=269)
-- "Meta-programming in Clojure is just programming" - Neal Ford
-[https://youtu.be/bxLnpgnDApg?t=1736](https://youtu.be/bxLnpgnDApg?t=1736)
-- "In Clojure, because the language is so bendable, you actually bend language towards the problem, not the problem towards the language." - Neal Ford
-[https://youtu.be/bxLnpgnDApg?t=1824](https://youtu.be/bxLnpgnDApg?t=1824)
-- "People ask me what projects I would choose Clojure for. The answer is: the nastiest, hardest, toughest kinds of projects possible. Because it's those projects where you need the ability to mold your language towards your problem, not vice versa" - Neal Ford
-[https://youtu.be/bxLnpgnDApg?t=1877](https://youtu.be/bxLnpgnDApg?t=1877)
-- "The two most sophisticated projects we have going on in the world right now, are both Clojure projects, on purpose. Because we think this is the only way these projects can be done." - Neal Ford
-[https://youtu.be/bxLnpgnDApg?t=1895](https://youtu.be/bxLnpgnDApg?t=1895)
-- "With Clojure you are bringing a gun to a knife fight" - Neal Ford
-
- ## Alex Miller
-
-- "The data parts of Clojure are fantastic. They allow us to get an amount of reuse that I never saw in any OO system I reused. Which was always the promise: there's this object and I can use it in lots of different ways. And I have not found that to be the case in practice. Whereas I find that the data centric approach and the generic programming model that Clojure provides to provide a tremendous amount of reuse." - Alex Miller
-[https://www.infoq.com/presentations/clojure-spec](https://www.infoq.com/presentations/clojure-spec) (6:40)
-
-
- ## Tim Ewald
-
-- "We often say we should use the right tool for the right job. And it's absolutely true. It's an interesting expression though. I haven't heard anyone apply it to a tool that they didn't like." - Tim Ewald
-[https://youtu.be/ShEez0JkOFw?t=95](https://youtu.be/ShEez0JkOFw?t=95)
-- "It's all just chisels. All the way down" - Tim Ewald
-[https://youtu.be/ShEez0JkOFw?t=702](https://youtu.be/ShEez0JkOFw?t=702)
-- "There's always a limit [to automated tools]. And it affects what you do." - Tim Ewald
-[https://youtu.be/ShEez0JkOFw?t=1539](https://youtu.be/ShEez0JkOFw?t=1539)
-- "The tools that you use shape how you look at the world." - Tim Ewald
-[https://youtu.be/ShEez0JkOFw?t=2502](https://youtu.be/ShEez0JkOFw?t=2502)
-- "I want tools that enable me do unique things. Tools that don't change my perspective. [...] And I believe Clojure is a perfect toolset for doing this." - Tim Ewald
-[https://youtu.be/ShEez0JkOFw?t=3286](https://youtu.be/ShEez0JkOFw?t=3286)
-- "IOC, the injection of complexity" - Tim Ewald
-[https://youtu.be/ShEez0JkOFw?t=3466](https://youtu.be/ShEez0JkOFw?t=3466)
-- "I'll be forever grateful to Rich for giving us a toolset that is mercilessly and mercifully simple. It's merciless in its pursuit of simplicity, and in giving us that, it's merciful to us." - Tim Ewald
-[https://www.youtube.com/watch?v=ShEez0JkOFw&feature=youtu.be&t=3471](https://www.youtube.com/watch?v=ShEez0JkOFw&feature=youtu.be&t=3471)
-
- ## Eric Normand
-
-- "That's the secret for making things composable: start with the composition - before you even define how the thing will work" - Eric Normand
-[https://youtu.be/jJIUoaIvD20?t=1516](https://youtu.be/jJIUoaIvD20?t=1516)
-
- ## Michael Nygard
-
-- "This is why I say Datomic is more relational than Oracle. Because a value of a Datomic database IS a relation over the space of the possible values for that schema. And you go from one relation to another relation." - Michael Nygard
-[http://blog.cognitect.com/cognicast/034-michael-nygard](http://blog.cognitect.com/cognicast/034-michael-nygard) (27:05)
-
-
- ## Michael Fogus
-
-- "TDD. But not the one you think I'm talking about. [Test Driven Dentistry]. And what that means is: not everything should be test driven." - Michael Fogus
-[https://youtu.be/NnSpaR67hXg?t=642](https://youtu.be/NnSpaR67hXg?t=642)
-- "Do you ever feel like you're being boilerplated alive?" - Michael Fogus
-[https://youtu.be/0JXhJyTo5V8?t=2083](https://youtu.be/0JXhJyTo5V8?t=2083)
-- "Well-formed Data at rest is as close to perfection in programming as it gets. All the crap that had to happen to put it there however.." - Michael Fogus
-[https://twitter.com/fogus/status/454582953067438080](https://twitter.com/fogus/status/454582953067438080)
-
- ## Adrien Cockroft
-
-- "A lot of the best programmers and the most productive programmers I know are writing everything in Clojure and swearing by it, and then just producing ridiculously sophisticated things in a very short time. And that programmer productivity matters." - Adrien Cockroft
-[https://thenewstack.io/the-new-stack-makers-adrian-cockcroft-on-sun-netflix-clojure-go-docker-and-more/](https://thenewstack.io/the-new-stack-makers-adrian-cockcroft-on-sun-netflix-clojure-go-docker-and-more/)
-
- ## Stuart Halloway
-
-- "If you have more things than names, your design is broken" - Stuart Halloway
-[https://youtu.be/SNVbipqw3SM?t=987](https://youtu.be/SNVbipqw3SM?t=987)
-- "If there are more concepts than names [in a diagram], it's not simple yet" - Stuart Halloway
-[https://youtu.be/SNVbipqw3SM?t=687](https://youtu.be/SNVbipqw3SM?t=687)
-- "'This class remains empty, only used for the above annotations'. We know you're doing some good complexity when you find yourself having to say things like that" - Stuart Halloway
-[https://vimeo.com/77199361](https://vimeo.com/77199361) (7:30)
-
-- "Nothing says 'Screw You!' like a DSL" - Stuart Halloway
-[https://vimeo.com/77199361](https://vimeo.com/77199361) (8:00)
-
-- "All that stuff we have done about encoding data in the Clojure ecosystem and in the Datomic ecosystem wouldn't have to exist, if JSON didn't suck" - Stuart Halloway
-[http://www.datomic.com/day-of-datomic-2016-part-2.html](http://www.datomic.com/day-of-datomic-2016-part-2.html) (2:40)
