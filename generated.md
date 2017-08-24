@@ -27,6 +27,11 @@
 - "I'll be forever grateful to Rich for giving us a toolset that is mercilessly and mercifully simple. It's merciless in its pursuit of simplicity, and in giving us that, it's merciful to us." - Tim Ewald
 [https://www.youtube.com/watch?v=ShEez0JkOFw&feature=youtu.be&t=3471](https://www.youtube.com/watch?v=ShEez0JkOFw&feature=youtu.be&t=3471)
 
+ ## Jay Fields
+
+- "Clojure is great for apps where you need access to the bare meta." - Jay Fields
+[https://twitter.com/thejayfields/status/572837627927371777](https://twitter.com/thejayfields/status/572837627927371777)
+
  ## Colin Fleming
 
 - "At the conceptual level of what the application is doing, it's nearly always a flow of data through your program. And how you're manipulating that data. And all the rest is just the noise around that. That is one of the big philosophical revelations that Clojure is helping with." - Colin Fleming
