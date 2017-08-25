@@ -272,6 +272,12 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [http://blog.cognitect.com/cognicast/034-michael-nygard](http://blog.cognitect.com/cognicast/034-michael-nygard) (27:05)
 
 
+ ## James Reeves
+
+- "Haskell and Clojure have two different ideas for how to stop things from going wrong. Haskell's idea is: we're just going to build this framework of types. And when you stick within this framework of types, then you're limiting what can go wrong. [...] Clojure has a different idea and that's that things go wrong because they're too interconnected. The more things are interconnected, the harder it is for our brains to figure out what all the consequences of actions are. [...] Based on my experience it wasn't so much the types or the structure that caused me a problem, it was the interactions between things." - James Reeves
+[https://defn.audio/2017/05/11/episode-21-james-reeves-aka-weavejester/](https://defn.audio/2017/05/11/episode-21-james-reeves-aka-weavejester/) (15:10)
+
+
  ## Falko Riemenschneider
 
 - "In a Clojure world external DSL tools, or specialized code generators will not have any future. They seem just like incidental complexity, required to make working with a broken language bearable. I know, most of us do not earn their money in the Clojure world. That makes these external meta tools valuable. But not desirable. " - Falko Riemenschneider
