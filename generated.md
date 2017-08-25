@@ -207,7 +207,7 @@ Similarly the flipside of that is: to the extent you have broken up your problem
 - "We should build the insides of our systems, like we build the outsides of our systems. All value propositions that accrue to systems - we want them!" - Rich Hickey
 [https://youtu.be/VSdnJDO-xdg?t=2491](https://youtu.be/VSdnJDO-xdg?t=2491)
 - "I don't know. I don't wanna know." - Rich Hickey
-- "You have to make this rational from the systems level: 'Data orientation and dynamic typing make sense in systems. You explain to me why it doesn't inside the programs: I don't understand why it wouldn't.'" - Rich Hickey
+- "You have to make this rationale from the systems level: 'Data orientation and dynamic typing make sense in systems. You explain to me why it doesn't inside the programs: I don't understand why it wouldn't.'" - Rich Hickey
 [https://youtu.be/ROor6_NGIWU?t=3418](https://youtu.be/ROor6_NGIWU?t=3418)
 - "Build your human interface on top of a programmatic interface, because programmatic interfaces are all you've got in the systems level" - Rich Hickey
 [https://youtu.be/ROor6_NGIWU?t=3507](https://youtu.be/ROor6_NGIWU?t=3507)
@@ -279,6 +279,9 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 
 - "Clojure is structured around the idea of reducing interactions, means reducing the amount of things that can go wrong. It's the only language I am aware of that persues this as a philosophy." - James Reeves
 [https://defn.audio/2017/05/11/episode-21-james-reeves-aka-weavejester/](https://defn.audio/2017/05/11/episode-21-james-reeves-aka-weavejester/) (16:48)
+
+- "Clojure stops you from doing the wrong things through isolation, whereas Haskell stops you from doing wrong things by being restrictive." - James Reeves
+[https://defn.audio/2017/05/11/episode-21-james-reeves-aka-weavejester/](https://defn.audio/2017/05/11/episode-21-james-reeves-aka-weavejester/) (23:05)
 
 
  ## Falko Riemenschneider
