@@ -277,6 +277,9 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 - "Haskell and Clojure have two different ideas for how to stop things from going wrong. Haskell's idea is: we're just going to build this framework of types. And when you stick within this framework of types, then you're limiting what can go wrong. [...] Clojure has a different idea and that's that things go wrong because they're too interconnected. The more things are interconnected, the harder it is for our brains to figure out what all the consequences of actions are. [...] Based on my experience it wasn't so much the types or the structure that caused me a problem, it was the interactions between things." - James Reeves
 [https://defn.audio/2017/05/11/episode-21-james-reeves-aka-weavejester/](https://defn.audio/2017/05/11/episode-21-james-reeves-aka-weavejester/) (15:10)
 
+- "Clojure is structured around the idea of reducing interactions, means reducing the amount of things that can go wrong. It's the only language I am aware of that persues this as a philosophy." - James Reeves
+[https://defn.audio/2017/05/11/episode-21-james-reeves-aka-weavejester/](https://defn.audio/2017/05/11/episode-21-james-reeves-aka-weavejester/) (16:48)
+
 
  ## Falko Riemenschneider
 
