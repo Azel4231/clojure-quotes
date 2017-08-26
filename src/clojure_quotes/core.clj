@@ -60,14 +60,16 @@
        (#(clojure.set/rename-keys % {nil "Unknown"}))
        (sort-by (comp lastname key))))
 
-(defn generate [quotes gen-f]
+(defn generate [gen-f quotes]
   (->> (conform! ::quotes quotes)
        process-quotes
        gen-f))
 
 (defn -main []
-  #_(->> (generate (read-quotes) html)
+  #_(->> (read-quotes)
+         (generate html)
          (spit "generated.html"))
-  (->> (generate (read-quotes) markdown)
+  (->> (read-quotes)
+       (generate markdown)
        (spit "generated.md")))
 
