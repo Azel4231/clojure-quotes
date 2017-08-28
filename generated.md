@@ -240,6 +240,18 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 - "As a simple example: here's a guitar player, a harp player, a double bass player all holding up their blisters. Imaging if you downloaded a library off the internet and it gave you blisters! The horror. And yet, every musician has overcome a barrier of entry similar to this." - Rich Hickey
 [https://www.infoq.com/presentations/Design-Composition-Performance](https://www.infoq.com/presentations/Design-Composition-Performance) (33:45)
 
+- "Clojure, I think, is completely unique amongst the languages on the JVM in promiting immutility and concurrency.  " - Rich Hickey
+[https://youtu.be/P76Vbsk_3J0?t=1007](https://youtu.be/P76Vbsk_3J0?t=1007)
+- "These [persistent data structures] are very different beasts. They have excellent performance, yet they're immutable. It's sort of the secret sauce of Clojure. Without these you can't do what I do in a language." - Rich Hickey
+[https://youtu.be/P76Vbsk_3J0?t=2100](https://youtu.be/P76Vbsk_3J0?t=2100)
+- "One of the nice things about Clojure is that it let's you fix Java" - Rich Hickey
+[https://youtu.be/hb3rurFxrZ8?t=334](https://youtu.be/hb3rurFxrZ8?t=334)
+- "These were hard data structures to write. These took me years of research and work. But the performance is good, and the benefits are unbelievable." - Rich Hickey
+[https://youtu.be/hb3rurFxrZ8?t=1848](https://youtu.be/hb3rurFxrZ8?t=1848)
+- "I think, even if you set concurrency aside, using those kind of data structures and taking a functional approach to writing your programs, is gonna give you much, much better programs. Much more reliable, much easier to test and understand and maintain. BUT, when you put concurrency in the loop, there is no longer any contest: nothing compares to using this kind of a strategy in designing your program." - Rich Hickey
+[https://youtu.be/hb3rurFxrZ8?t=1876](https://youtu.be/hb3rurFxrZ8?t=1876)
+- "So the conventional way is that: eveybody is looking at the same space. And that space can get scribbled on by anybody else. And there's all this 'Wait, wait! I'm scribbling on this space'. And 'Wait! I have to see it, don't scribble on it. I'm trying to understand it'. That's how your programs work today. It's crazy." - Rich Hickey
+[https://youtu.be/hb3rurFxrZ8?t=2308](https://youtu.be/hb3rurFxrZ8?t=2308)
 
  ## Robert Martin
 
