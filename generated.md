@@ -1,5 +1,14 @@
 
 
+ ## Timothy Baldridge
+
+- "Data-first programming. In the end I want my language concerned about data transformations. I don't want OOP where I'm constantly converting a "Person" to a "Student". I don't want a language where I'm considered "doing it wrong" if I keep all my data in a hashmap or a vector. (Rules out pretty much everything but Clojure)" - Timothy Baldridge
+[https://www.reddit.com/r/Clojure/comments/6yb1ps/used_clojure_for_more_than_2_years_what_are_your/dmv7he2/](https://www.reddit.com/r/Clojure/comments/6yb1ps/used_clojure_for_more_than_2_years_what_are_your/dmv7he2/)
+- "Well Clojure ends up being so concise that you're not very likely too see code that's in the millions of lines of code. [..] If you assume a 100x code savings in Clojure vs Java (true for most of the projects I've worked on), you're left with 10,000 lines of Clojure code. And I've worked on a ton of those." - Timothy Baldridge
+[https://www.reddit.com/r/Clojure/comments/6wn6t5/new_clojurians_ask_anything/dmamuy6/](https://www.reddit.com/r/Clojure/comments/6wn6t5/new_clojurians_ask_anything/dmamuy6/)
+- "So as my friend always says: "static typing doesn't solve problems I have"" - Timothy Baldridge
+[https://www.reddit.com/r/Clojure/comments/6wn6t5/new_clojurians_ask_anything/dmacli6/](https://www.reddit.com/r/Clojure/comments/6wn6t5/new_clojurians_ask_anything/dmacli6/)
+
  ## Arne Brasseur
 
 - "Clojure Spec is one of the most exciting things to happen in Clojure land, and probably programming in general, in a while." - Arne Brasseur
@@ -9,6 +18,13 @@
 
 - "A lot of the best programmers and the most productive programmers I know are writing everything in Clojure and swearing by it, and then just producing ridiculously sophisticated things in a very short time. And that programmer productivity matters." - Adrien Cockroft
 [https://thenewstack.io/the-new-stack-makers-adrian-cockcroft-on-sun-netflix-clojure-go-docker-and-more/](https://thenewstack.io/the-new-stack-makers-adrian-cockcroft-on-sun-netflix-clojure-go-docker-and-more/)
+
+ ## Sean Corfield
+
+- "Clojure feels incredibly fluid and malleable, it’s both extremely powerful (because of its abstractions) and also extremely simple (it’s a small language, with a handful of consistent concepts). It’s great for exploring simple problems, and for building large, complex systems" - Sean Corfield
+[https://www.quora.com/What-do-you-like-the-most-in-Clojure-How-did-you-find-it](https://www.quora.com/What-do-you-like-the-most-in-Clojure-How-did-you-find-it)
+- "What I like most about Clojure is that it is fun to use!" - Sean Corfield
+[https://www.quora.com/What-do-you-like-the-most-in-Clojure-How-did-you-find-it](https://www.quora.com/What-do-you-like-the-most-in-Clojure-How-did-you-find-it)
 
  ## Tim Ewald
 

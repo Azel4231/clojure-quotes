@@ -14,7 +14,11 @@ A: I know. Didn't write all of them down and forgot where I heard them. I accept
 
 Q: Can I fix typos?
 
-A: Sure. Make sure to fix them in 'quotes.edn' and regenerate 'generated.md' by calling 'lein run'. Then send me a pull request.
+A: Sure. Create an issue, send me a message or create a pull request (in that case make sure to fix typos in 'quotes.edn' and regenerate 'generated.md' by calling 'lein run')
+
+Q: I have a quote and want to contribute
+
+A: Awesome, I'm always searching for new quotes! Send me a message or pull-request.
 
 ## License
 
