@@ -197,6 +197,8 @@ Similarly the flipside of that is: to the extent you have broken up your problem
 [http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) (18:00)
 
 - "We don't get to stop the world, especially not to observe it." - Rich Hickey
+- "All these things you always wish you had, you get. All the time." - Rich Hickey
+[https://youtu.be/4iaIwiemqfo?t=3742](https://youtu.be/4iaIwiemqfo?t=3742)
 - "Perception is uncoordinated. It's massively parallel. It is not message passing." - Rich Hickey
 - "But we can't screw up time and state the way we have, and have it still be easier. Because it's now wrong." - Rich Hickey
 [http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey ](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey ) (27:00)
@@ -293,6 +295,15 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 
 - "That's the secret for making things composable: start with the composition - before you even define how the thing will work" - Eric Normand
 [https://youtu.be/jJIUoaIvD20?t=1516](https://youtu.be/jJIUoaIvD20?t=1516)
+
+ ## Dan North
+
+- "Familiarity and simplicity are different things. You get used to crappyness. What’s happening is: the crappyness is bending your brain in such a way that it’s now ok with the crappyness." - Dan North
+[https://youtu.be/XqgwHXsQA1g?t=2336](https://youtu.be/XqgwHXsQA1g?t=2336)
+- "Clojure people. You have to be smart enough to understand Clojure, to be masochistic enough to enjoy Emacs." - Dan North
+[https://youtu.be/XqgwHXsQA1g?t=1726](https://youtu.be/XqgwHXsQA1g?t=1726)
+- "Because it's so simple, this made programming too easy. We should learn Emacs!" - Dan North
+[https://youtu.be/XqgwHXsQA1g?t=2778](https://youtu.be/XqgwHXsQA1g?t=2778)
 
  ## Michael Nygard
 
