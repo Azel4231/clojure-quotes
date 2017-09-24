@@ -94,6 +94,15 @@
 - "All that stuff we have done about encoding data in the Clojure ecosystem and in the Datomic ecosystem wouldn't have to exist, if JSON didn't suck" - Stuart Halloway
 [http://www.datomic.com/day-of-datomic-2016-part-2.html](http://www.datomic.com/day-of-datomic-2016-part-2.html) (2:40)
 
+- "We're trying to shrink the elephant-in-the-room-factor." - Stuart Halloway
+[https://vimeo.com/208676137](https://vimeo.com/208676137) (5:26)
+
+- "Universal schema sounds buzzwordy. I you want to categorize it in a contrarian way, you can say 'It completely solves ORM'." - Stuart Halloway
+[https://vimeo.com/208659315](https://vimeo.com/208659315) (2:19)
+
+- "[In Datomic] you can navigate in both directions. This is strictly awesome compared to being in an object-oriented environment, where one direction is blessed." - Stuart Halloway
+[https://vimeo.com/208682055](https://vimeo.com/208682055) (25:30)
+
 
  ## Rich Hickey
 
@@ -337,7 +346,7 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 - "When I found this Clojure thing, and saw this extreme focus on simplicity. It felt like the way. The capital doubly way." - Robert Stuttaford
 [https://soundcloud.com/defn-771544745/7-dataomic-with-robert-stuttaford](https://soundcloud.com/defn-771544745/7-dataomic-with-robert-stuttaford) (16:25)
 
-- "It really felt to me very quickly, once I got my head around the basics, that is was gonna be more risky not to use this language than to use it." - Robert Stuttaford
+- "It really felt to me very quickly, once I got my head around the basics, that it was gonna be more risky not to use this language than to use it." - Robert Stuttaford
 [https://zadevchat.io/27/](https://zadevchat.io/27/) (16:40)
 
 - "I'll be very honest. Clojure did not map to the way I thought about the world, it mapped to the way I wanted to think about the world. It was very much an unlearning not a learning." - Robert Stuttaford
