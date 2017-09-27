@@ -133,6 +133,10 @@
 #:clojure-quotes.core{:text "We're trying to shrink the elephant-in-the-room-factor.", :quotee "Stuart Halloway", :reference #:clojure-quotes.core{:url "https://vimeo.com/208676137" :time "5:26"}}
 #:clojure-quotes.core{:text "Universal schema sounds buzzwordy. I you want to categorize it in a contrarian way, you can say 'It completely solves ORM'.", :quotee "Stuart Halloway", :reference #:clojure-quotes.core{:url "https://vimeo.com/208659315" :time "2:19"}}
  #:clojure-quotes.core{:text "[In Datomic] you can navigate in both directions. This is strictly awesome compared to being in an object-oriented environment, where one direction is blessed.", :quotee "Stuart Halloway", :reference #:clojure-quotes.core{:url "https://vimeo.com/208682055" :time "25:30"}}
+ #:clojure-quotes.core{:text "And I like to ask this question: What's true of every bug found in the field? [...] It passed the type checker. What else did it do? It passed all the tests.", :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://www.infoq.com/presentations/Simple-Made-Easy" :time "15:43"}}
+ #:clojure-quotes.core{:text "I think we're in this world I like to call guardrail programming. It's really sad. We're like: 'I can make change because I have tests'. Who does that? Who drives their car around banging against the guardrails saying 'Woa. I'm glad I have these guardrails. Or I'll never make it to the show on time!'. And do the guardrails help you get to where you wanna go? Like, do guardrails guide you places? No. There's guardrails everywhere. They don't point your car in any particular direction.", :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://www.infoq.com/presentations/Simple-Made-Easy" :time "16:08"}}
+ #:clojure-quotes.core{:text "Systems are dynamic and data driven. It might be a nice idea to use a language that was also dynamic and data driven.", :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://youtu.be/ROor6_NGIWU?t=3547"}}
+ #:clojure-quotes.core{:text "You know what's web-scale? The Web. And you know what it is? Dynamically typed.", :quotee "Stuart Halloway", :reference #:clojure-quotes.core{:url "https://youtu.be/LEZv-kQUSi4?t=1026"}}
 
-
+ 
  ]

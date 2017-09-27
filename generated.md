@@ -103,6 +103,8 @@
 - "[In Datomic] you can navigate in both directions. This is strictly awesome compared to being in an object-oriented environment, where one direction is blessed." - Stuart Halloway
 [https://vimeo.com/208682055](https://vimeo.com/208682055) (25:30)
 
+- "You know what's web-scale? The Web. And you know what it is? Dynamically typed." - Stuart Halloway
+[https://youtu.be/LEZv-kQUSi4?t=1026](https://youtu.be/LEZv-kQUSi4?t=1026)
 
  ## Rich Hickey
 
@@ -279,6 +281,14 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://youtu.be/hb3rurFxrZ8?t=1876](https://youtu.be/hb3rurFxrZ8?t=1876)
 - "So the conventional way is that: eveybody is looking at the same space. And that space can get scribbled on by anybody else. And there's all this 'Wait, wait! I'm scribbling on this space'. And 'Wait! I have to see it, don't scribble on it. I'm trying to understand it'. That's how your programs work today. It's crazy." - Rich Hickey
 [https://youtu.be/hb3rurFxrZ8?t=2308](https://youtu.be/hb3rurFxrZ8?t=2308)
+- "And I like to ask this question: What's true of every bug found in the field? [...] It passed the type checker. What else did it do? It passed all the tests." - Rich Hickey
+[https://www.infoq.com/presentations/Simple-Made-Easy](https://www.infoq.com/presentations/Simple-Made-Easy) (15:43)
+
+- "I think we're in this world I like to call guardrail programming. It's really sad. We're like: 'I can make change because I have tests'. Who does that? Who drives their car around banging against the guardrails saying 'Woa. I'm glad I have these guardrails. Or I'll never make it to the show on time!'. And do the guardrails help you get to where you wanna go? Like, do guardrails guide you places? No. There's guardrails everywhere. They don't point your car in any particular direction." - Rich Hickey
+[https://www.infoq.com/presentations/Simple-Made-Easy](https://www.infoq.com/presentations/Simple-Made-Easy) (16:08)
+
+- "Systems are dynamic and data driven. It might be a nice idea to use a language that was also dynamic and data driven." - Rich Hickey
+[https://youtu.be/ROor6_NGIWU?t=3547](https://youtu.be/ROor6_NGIWU?t=3547)
 
  ## Robert Martin
 
