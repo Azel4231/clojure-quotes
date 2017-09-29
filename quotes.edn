@@ -137,6 +137,9 @@
  #:clojure-quotes.core{:text "I think we're in this world I like to call guardrail programming. It's really sad. We're like: 'I can make change because I have tests'. Who does that? Who drives their car around banging against the guardrails saying 'Woa. I'm glad I have these guardrails. Or I'll never make it to the show on time!'. And do the guardrails help you get to where you wanna go? Like, do guardrails guide you places? No. There's guardrails everywhere. They don't point your car in any particular direction.", :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://www.infoq.com/presentations/Simple-Made-Easy" :time "16:08"}}
  #:clojure-quotes.core{:text "Systems are dynamic and data driven. It might be a nice idea to use a language that was also dynamic and data driven.", :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://youtu.be/ROor6_NGIWU?t=3547"}}
  #:clojure-quotes.core{:text "You know what's web-scale? The Web. And you know what it is? Dynamically typed.", :quotee "Stuart Halloway", :reference #:clojure-quotes.core{:url "https://youtu.be/LEZv-kQUSi4?t=1026"}}
+ #:clojure-quotes.core{:text "There's a way to approach this where this doesn't have to feel like a trade-off. Where it's all winning. You can program in the most generic way possible and still deal with the specifics. And that's what clojure.spec does.", :quotee "Stuart Halloway", :reference #:clojure-quotes.core{:url "https://youtu.be/VNTQ-M_uSo8?t=542"}}
+ #:clojure-quotes.core{:text "This slide is essentially the replacement for OO.", :quotee "Stuart Halloway", :reference #:clojure-quotes.core{:url "https://youtu.be/VNTQ-M_uSo8?t=1696"}}
 
+ 
  
  ]

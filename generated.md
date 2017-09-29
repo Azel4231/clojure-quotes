@@ -105,6 +105,10 @@
 
 - "You know what's web-scale? The Web. And you know what it is? Dynamically typed." - Stuart Halloway
 [https://youtu.be/LEZv-kQUSi4?t=1026](https://youtu.be/LEZv-kQUSi4?t=1026)
+- "There's a way to approach this where this doesn't have to feel like a trade-off. Where it's all winning. You can program in the most generic way possible and still deal with the specifics. And that's what clojure.spec does." - Stuart Halloway
+[https://youtu.be/VNTQ-M_uSo8?t=542](https://youtu.be/VNTQ-M_uSo8?t=542)
+- "This slide is essentially the replacement for OO." - Stuart Halloway
+[https://youtu.be/VNTQ-M_uSo8?t=1696](https://youtu.be/VNTQ-M_uSo8?t=1696)
 
  ## Rich Hickey
 
