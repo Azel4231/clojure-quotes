@@ -109,6 +109,18 @@
 [https://youtu.be/VNTQ-M_uSo8?t=542](https://youtu.be/VNTQ-M_uSo8?t=542)
 - "This slide is essentially the replacement for OO." - Stuart Halloway
 [https://youtu.be/VNTQ-M_uSo8?t=1696](https://youtu.be/VNTQ-M_uSo8?t=1696)
+- "I wanna think about the number of times that I was building a web application and my stakeholder said: 'You know, the users really like this, but I'm not sure if the type system in your language is decidable'. It just doesn't come up very often." - Stuart Halloway
+[https://youtu.be/KZ8u_sWT9Ls?t=707](https://youtu.be/KZ8u_sWT9Ls?t=707)
+- "Simplicity makes you feel powerful because you're going exactly in the direction that you want to go." - Stuart Halloway
+[https://youtu.be/KZ8u_sWT9Ls?t=1219](https://youtu.be/KZ8u_sWT9Ls?t=1219)
+- "The only thing that Java is actually concise at is interface declarations. " - Stuart Halloway
+[https://youtu.be/KZ8u_sWT9Ls?t=2043](https://youtu.be/KZ8u_sWT9Ls?t=2043)
+- "There are some details of implementation inheritance that can't be duplicated in Clojure. Implementation inheritance is evil." - Stuart Halloway
+[https://youtu.be/KZ8u_sWT9Ls?t=2114](https://youtu.be/KZ8u_sWT9Ls?t=2114)
+- "Ok Rich, we got simple and power, but can we please have just a little tiny bit of easy somewhere? Just a smidge." - Stuart Halloway
+[https://youtu.be/KZ8u_sWT9Ls?t=2204](https://youtu.be/KZ8u_sWT9Ls?t=2204)
+- "I've thought about how to actually do the Clojure version of that. So you would come to a conference and you would set up a hammock. You would clojurize and people would watch you for half an hour. And then you'd say 'Aha!' and stand up and leave." - Stuart Halloway
+[https://youtu.be/JArZqMqsaB0?t=43](https://youtu.be/JArZqMqsaB0?t=43)
 
  ## Rich Hickey
 
