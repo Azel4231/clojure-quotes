@@ -139,6 +139,18 @@
 - "And all that just gets worse at scale. So all the problems that are baked into OO just snowball as things get bigger." - Stuart Halloway
 [https://skillsmatter.com/skillscasts/2302-radical-simplicity](https://skillsmatter.com/skillscasts/2302-radical-simplicity) (1:06:15)
 
+- "Clojure has a really strong notion of namespaces, which is straight-up superior to what I've seen in most OO languages." - Stuart Halloway
+[https://skillsmatter.com/skillscasts/2302-radical-simplicity](https://skillsmatter.com/skillscasts/2302-radical-simplicity) (1:33:25)
+
+- "I do think that it's actually easier to learn something that's based on composits of simples than it is to learn something that is baroque. Someone that is capable to learn enough Java to do something at all, they're capable of learning Clojure enough to do something." - Stuart Halloway
+[https://skillsmatter.com/skillscasts/2302-radical-simplicity](https://skillsmatter.com/skillscasts/2302-radical-simplicity) (1:34:21)
+
+- "If you look at what Clojure brings to Lisp, it brings the one good thing out of OO: polymorphism." - Stuart Halloway
+[https://skillsmatter.com/skillscasts/2302-radical-simplicity](https://skillsmatter.com/skillscasts/2302-radical-simplicity) (1:41:30)
+
+- "I don't wanna run down leiningen cause it's awesome. And it's been a huge help for getting the Clojure community going. And Phil and everybody else who have worked on that deserve a big wet soggy kiss when you see'em. But it's not simple. It represents heroic effort to undo harm done by others." - Stuart Halloway
+[https://skillsmatter.com/skillscasts/2302-radical-simplicity](https://skillsmatter.com/skillscasts/2302-radical-simplicity) (1:44:05)
+
 
  ## Rich Hickey
 
