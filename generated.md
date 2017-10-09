@@ -124,20 +124,23 @@
 - "One line of think, per one line of code." - Stuart Halloway
 [https://skillsmatter.com/skillscasts/2302-radical-simplicity](https://skillsmatter.com/skillscasts/2302-radical-simplicity) (7:26)
 
+- "What's the dollar cost of having gotten [data serialization] wrong? [...] I bet it's billions of dollars spent because we have our architecture layers inverted." - Stuart Halloway
+[https://skillsmatter.com/skillscasts/2302-radical-simplicity](https://skillsmatter.com/skillscasts/2302-radical-simplicity) (20:06)
+
 - "Java reflection epitomizes OO design. And it's piss pour." - Stuart Halloway
 [https://skillsmatter.com/skillscasts/2302-radical-simplicity](https://skillsmatter.com/skillscasts/2302-radical-simplicity) (43:35)
-
-- "OO is not dead here, it's just be dissected. So when you look at writing code in Clojure, and you say 'Well this doesn't look like OO at all', it's not that OO is dead an gone. It's that all the pieces of OO have been dissected and delivered separately." - Stuart Halloway
-[https://skillsmatter.com/skillscasts/2302-radical-simplicity](https://skillsmatter.com/skillscasts/2302-radical-simplicity) (1:23:32)
-
-- "One of the things that happens when you write a Clojure program is that in your design you will probably identify all of the mutable state in the program. That will be a list that fits on an index card in most cases. And all the parts that are not that, you get to treat in a wholly different way. They're pure functions, they're easy to reason about, they're easy to test. And that's a whole world of better." - Stuart Halloway
-[https://skillsmatter.com/skillscasts/2302-radical-simplicity](https://skillsmatter.com/skillscasts/2302-radical-simplicity) (1:26:46)
 
 - "It's in fact so bad, that I would argue that POJO is an oxymoron. The only thing POJOs look plain next to is EJBs." - Stuart Halloway
 [https://skillsmatter.com/skillscasts/2302-radical-simplicity](https://skillsmatter.com/skillscasts/2302-radical-simplicity) (1:05:22)
 
 - "And all that just gets worse at scale. So all the problems that are baked into OO just snowball as things get bigger." - Stuart Halloway
 [https://skillsmatter.com/skillscasts/2302-radical-simplicity](https://skillsmatter.com/skillscasts/2302-radical-simplicity) (1:06:15)
+
+- "OO is not dead here, it's just be dissected. So when you look at writing code in Clojure, and you say 'Well this doesn't look like OO at all', it's not that OO is dead an gone. It's that all the pieces of OO have been dissected and delivered separately." - Stuart Halloway
+[https://skillsmatter.com/skillscasts/2302-radical-simplicity](https://skillsmatter.com/skillscasts/2302-radical-simplicity) (1:23:32)
+
+- "One of the things that happens when you write a Clojure program is that in your design you will probably identify all of the mutable state in the program. That will be a list that fits on an index card in most cases. And all the parts that are not that, you get to treat in a wholly different way. They're pure functions, they're easy to reason about, they're easy to test. And that's a whole world of better." - Stuart Halloway
+[https://skillsmatter.com/skillscasts/2302-radical-simplicity](https://skillsmatter.com/skillscasts/2302-radical-simplicity) (1:26:46)
 
 - "Clojure has a really strong notion of namespaces, which is straight-up superior to what I've seen in most OO languages." - Stuart Halloway
 [https://skillsmatter.com/skillscasts/2302-radical-simplicity](https://skillsmatter.com/skillscasts/2302-radical-simplicity) (1:33:25)
