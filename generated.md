@@ -154,6 +154,8 @@
 - "I don't wanna run down leiningen cause it's awesome. And it's been a huge help for getting the Clojure community going. And Phil and everybody else who have worked on that deserve a big wet soggy kiss when you see'em. But it's not simple. It represents heroic effort to undo harm done by others." - Stuart Halloway
 [https://skillsmatter.com/skillscasts/2302-radical-simplicity](https://skillsmatter.com/skillscasts/2302-radical-simplicity) (1:44:05)
 
+- "Cross region replication is another example of something that gets crazy easier because everything is indelible. Because you have this model it's not place-oriented programming. In order to replicate from one region to another all we have to do is stream stuff from place to place. We don't have to do any coordination that's like 'Oh my god this thing changed'. All those kinds of problems go away. It almost feels like cheating." - Stuart Halloway
+[https://youtu.be/Ljvhjei3tWU?t=1996](https://youtu.be/Ljvhjei3tWU?t=1996)
 
  ## Rich Hickey
 
@@ -338,6 +340,12 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 
 - "Systems are dynamic and data driven. It might be a nice idea to use a language that was also dynamic and data driven." - Rich Hickey
 [https://youtu.be/ROor6_NGIWU?t=3547](https://youtu.be/ROor6_NGIWU?t=3547)
+- "At this point I was an expert C++ user and really loved C++. For some value of 'love'. That involves no satisfaction at all." - Rich Hickey
+[https://youtu.be/2V1FtfBDsLU?t=396](https://youtu.be/2V1FtfBDsLU?t=396)
+- "What does effective mean? It means 'producing the intended result'. And I really want this word to become important because I'm really tired of the word correctness. Where correctness means, I don't know, 'made the type checker happy'. None of my consumers of these programs that I did professionally care about that. They care that the program works for their definition of works." - Rich Hickey
+[https://youtu.be/2V1FtfBDsLU?t=1031](https://youtu.be/2V1FtfBDsLU?t=1031)
+- "That's the problem: after 18 years of using C++ and Java, you're exhausted. How many people have been programming for 18 years? How many for more than 20 years? More than 25? Fewer than 5? So that is really interesting to me. It may be an indictment of Clojure as a beginners language. Or maybe that Clojure is the language for cranky, tired, old programmers." - Rich Hickey
+[https://youtu.be/2V1FtfBDsLU?t=1853](https://youtu.be/2V1FtfBDsLU?t=1853)
 
  ## Robert Martin
 
