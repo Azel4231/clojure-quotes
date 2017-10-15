@@ -62,6 +62,10 @@
 [https://youtu.be/0JXhJyTo5V8?t=2083](https://youtu.be/0JXhJyTo5V8?t=2083)
 - "Well-formed Data at rest is as close to perfection in programming as it gets. All the crap that had to happen to put it there however.." - Michael Fogus
 [https://twitter.com/fogus/status/454582953067438080](https://twitter.com/fogus/status/454582953067438080)
+- "When we first started exploring Clojure we thought we were getting a hobby language. That's what I used it for and that's the way I viewed it. But now, ten years later, what I actually got was a language that I can base a career on." - Michael Fogus
+[https://youtu.be/9N7xM40fio0?t=1837](https://youtu.be/9N7xM40fio0?t=1837)
+- "Clojure recently crossed a threshold. There are people in this room that can spend the rest of their career writing Clojure code." - Michael Fogus
+[https://youtu.be/9N7xM40fio0?t=1862](https://youtu.be/9N7xM40fio0?t=1862)
 
  ## Neal Ford
 
@@ -346,6 +350,12 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://youtu.be/2V1FtfBDsLU?t=1031](https://youtu.be/2V1FtfBDsLU?t=1031)
 - "That's the problem: after 18 years of using C++ and Java, you're exhausted. How many people have been programming for 18 years? How many for more than 20 years? More than 25? Fewer than 5? So that is really interesting to me. It may be an indictment of Clojure as a beginners language. Or maybe that Clojure is the language for cranky, tired, old programmers." - Rich Hickey
 [https://youtu.be/2V1FtfBDsLU?t=1853](https://youtu.be/2V1FtfBDsLU?t=1853)
+- "I had to rewrite it in C++. It took four times as long to rewrite it than to write it in the first place. It yielded five times as much code and it was no faster. And that's when I knew I was doin' it wrong." - Rich Hickey
+[https://youtu.be/2V1FtfBDsLU?t=415](https://youtu.be/2V1FtfBDsLU?t=415)
+- "Why was I unhappy as a programmer after 18 years and said 'If I can't switch to something like CommonLisp I am gonna switch careers'? Why am I saying that? I am saying it because I'm frustrated with a bunch of limitations in what I was using." - Rich Hickey
+[https://youtu.be/2V1FtfBDsLU?t=1663](https://youtu.be/2V1FtfBDsLU?t=1663)
+- "I wanted Clojure to be a good library language, but I didn't think about the library ecosystem problems as part of Clojure. My talk last year about libraries implies that I still think this is a big problem for programs. It's one of the ones that's left. After Clojure and Datomic, what's left to fix?" - Rich Hickey
+[https://youtu.be/2V1FtfBDsLU?t=1808](https://youtu.be/2V1FtfBDsLU?t=1808)
 
  ## Robert Martin
 
