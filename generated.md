@@ -356,6 +356,14 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://youtu.be/2V1FtfBDsLU?t=1663](https://youtu.be/2V1FtfBDsLU?t=1663)
 - "I wanted Clojure to be a good library language, but I didn't think about the library ecosystem problems as part of Clojure. My talk last year about libraries implies that I still think this is a big problem for programs. It's one of the ones that's left. After Clojure and Datomic, what's left to fix?" - Rich Hickey
 [https://youtu.be/2V1FtfBDsLU?t=1808](https://youtu.be/2V1FtfBDsLU?t=1808)
+- "The old Perlis quib about 'any sufficently large C or C++ program has a poorly implemented CommonLisp [implementation]' - It's so true. Again: Spring. As you get a larger system that you wanna maintain over time and deal with all those complexities I showed before, you want dynamism. You have to have it. It's not like an optional thing. It's necessary." - Rich Hickey
+[https://youtu.be/2V1FtfBDsLU?t=3644](https://youtu.be/2V1FtfBDsLU?t=3644)
+- "Person is 'String x String x int x String x String x float x float' product type. A complete callous disregard for people, names, human thinking. It's crazy." - Rich Hickey
+[https://youtu.be/2V1FtfBDsLU?t=2424](https://youtu.be/2V1FtfBDsLU?t=2424)
+- "There's the REPL. And people are like 'The REPL is cool because I get to try things'. And that's true, but the REPL is much cooler than that. It's cooler than that because it's an acronym. It's cooler than that because 'read' is its own thing. And what Clojure did by adding a richer set of data structures is it made Read-Print into a super-power. It wasn't just a convenience. It isn't just a way to interact with people. It isn't just a way to stream programs around or program-fragments around. It's now like: here's your free wire protocol." - Rich Hickey
+[https://youtu.be/2V1FtfBDsLU?t=3797](https://youtu.be/2V1FtfBDsLU?t=3797)
+- "I would encourage you all to embrace the fact that Clojure is different. Don't be cowed by the proof people. Programming is not a solved problem. Logic should be your tool, it shouldn't be your master. You should be underneath the logic system and be applying the logic system when it workes out for you." - Rich Hickey
+[https://youtu.be/2V1FtfBDsLU?t=3869](https://youtu.be/2V1FtfBDsLU?t=3869)
 
  ## Robert Martin
 
