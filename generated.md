@@ -362,8 +362,10 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://youtu.be/2V1FtfBDsLU?t=2424](https://youtu.be/2V1FtfBDsLU?t=2424)
 - "There's the REPL. And people are like 'The REPL is cool because I get to try things'. And that's true, but the REPL is much cooler than that. It's cooler than that because it's an acronym. It's cooler than that because 'read' is its own thing. And what Clojure did by adding a richer set of data structures is it made Read-Print into a super-power. It wasn't just a convenience. It isn't just a way to interact with people. It isn't just a way to stream programs around or program-fragments around. It's now like: here's your free wire protocol." - Rich Hickey
 [https://youtu.be/2V1FtfBDsLU?t=3797](https://youtu.be/2V1FtfBDsLU?t=3797)
-- "I would encourage you all to embrace the fact that Clojure is different. Don't be cowed by the proof people. Programming is not a solved problem. Logic should be your tool, it shouldn't be your master. You should be underneath the logic system and be applying the logic system when it workes out for you." - Rich Hickey
+- "I would encourage you all to embrace the fact that Clojure is different. Don't be cowed by the proof people. Programming is not a solved problem. Logic should be your tool, it shouldn't be your master. You should be underneath the logic system and be applying the logic system when it works out for you." - Rich Hickey
 [https://youtu.be/2V1FtfBDsLU?t=3869](https://youtu.be/2V1FtfBDsLU?t=3869)
+- "I think that this verification and whatnot is incredibly important. But it should be à la carte. Depending on what you need to do. Depending on the amount of money you have to spend. Depending on what you want to express. You should be able to pull different kinds of verification technology off the shelf and apply it. It should not be built-in. There's a diversity of needs, there's a diversity of approaches for doing it and a diversity of costs." - Rich Hickey
+[https://youtu.be/2V1FtfBDsLU?t=4169](https://youtu.be/2V1FtfBDsLU?t=4169)
 
  ## Robert Martin
 
@@ -404,6 +406,11 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 - "This is why I say Datomic is more relational than Oracle. Because a value of a Datomic database IS a relation over the space of the possible values for that schema. And you go from one relation to another relation." - Michael Nygard
 [http://blog.cognitect.com/cognicast/034-michael-nygard](http://blog.cognitect.com/cognicast/034-michael-nygard) (27:05)
 
+
+ ## Jon Pither
+
+- "For me the real win with choosing a immutable functional language such as Clojure is around the 2/3 mark in a project. Just when a large traditional OO system starts to buckle under it’s own gravity and the business rules become harder to reach through the applied refactorings and introduction of design patterns, this is when a Clojure code-base will shine in comparison." - Jon Pither
+[http://www.pitheringabout.com/?p=1069](http://www.pitheringabout.com/?p=1069)
 
  ## James Reeves
 
