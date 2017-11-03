@@ -166,6 +166,8 @@
 - "Multiple taxonomies in a single program. That's easy in Clojure." - Rich Hickey
 [https://youtu.be/dGVqrGmwOAw?t=1110](https://youtu.be/dGVqrGmwOAw?t=1110)
 - "Design is to take things apart in such a way that they can be put back together" - Rich Hickey
+[https://www.infoq.com/presentations/Design-Composition-Performance](https://www.infoq.com/presentations/Design-Composition-Performance) (3:10)
+
 - "Design is separating into things that can be composed." - Rich Hickey
 - "Every time I encounter something I can boil it down to that. Every time I encounter something that I wish my design was better, I need to do more of this [take things apart]. Over and over again. I did not take it apart enough." - Rich Hickey
 - "Design helps extension. To the extent that you have broken things into separate parts, with an eye towards connecting them back together, it means that your resulting design is gonna have connection points. And when you want your system to do something new, it will be possible to do it, because there's something there. That's why design is not just about accreting up to an answer. Because when you do that you don't end up with any connecting points. And you don't end up with any building blocks. And you can't really extend that thing. 
@@ -186,7 +188,7 @@ Similarly the flipside of that is: to the extent you have broken up your problem
 [https://youtu.be/rI8tNMsozo0?t=1163](https://youtu.be/rI8tNMsozo0?t=1163)
 - "If you want everything to be familiar, you'll never learn anything new" - Rich Hickey
 [https://youtu.be/rI8tNMsozo0?t=1088](https://youtu.be/rI8tNMsozo0?t=1088)
-- "Simplicity enables change. I think it is the primary source of real agility. Agility means to do something. It doesn't mean to do it over." - Rich Hickey
+- "Simplicity enables change. I think it's the primary source of real agility. Agility means to do something. It doesn’t mean to do it over, it doesn’t mean to redo it, it doesn’t mean to undo it. It means to directly do. That’s agility. If you’re dragging an elephant around you’re never going to be agile" - Rich Hickey
 [https://youtu.be/rI8tNMsozo0?t=2115](https://youtu.be/rI8tNMsozo0?t=2115)
 - "If you've got the complexity elephant over there, you are applying the process to pushing elephants. And how good can you get at it?" - Rich Hickey
 [https://youtu.be/rI8tNMsozo0?t=609](https://youtu.be/rI8tNMsozo0?t=609)
@@ -391,6 +393,8 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 
 - "That's the secret for making things composable: start with the composition - before you even define how the thing will work" - Eric Normand
 [https://youtu.be/jJIUoaIvD20?t=1516](https://youtu.be/jJIUoaIvD20?t=1516)
+- "There's kind of a curse, I can say that. The curse is that these systems are so much more maintainable than the object-oriented systems that have been around for 20+ years now, that they don't require a lot of jobs." - Eric Normand
+[https://overcast.fm/+HaNNohmXY/53:14](https://overcast.fm/+HaNNohmXY/53:14)
 
  ## Dan North
 
