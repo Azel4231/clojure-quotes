@@ -389,6 +389,13 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://s3.amazonaws.com/cognicast/shows/cognicast-111-das-boot.mp3](https://s3.amazonaws.com/cognicast/shows/cognicast-111-das-boot.mp3) (59:45)
 
 
+ ## David Nolen
+
+- "If I wanna use a fairly cutting-edge programming language and yet at the same time I wanna get stuff done, I think Clojure [..] still totally owns that sweet-spot. I haven't found anything else that is both interesting as a programming language and yet at the same time I can just do real work with it." - David Nolen
+[https://soundcloud.com/defn-771544745/26-with-david-nolen-aka-swannodette#t=15:29](https://soundcloud.com/defn-771544745/26-with-david-nolen-aka-swannodette#t=15:29)
+- "Defn-Podcast: "If you couldn't write ClojureScript, what would you use?" - "Elm is really cool. Reason is interesting. ScalaJS is very impressive. But I spent 6 years on ClojureScript, so I don't have to use anything else."" - David Nolen
+[https://soundcloud.com/defn-771544745/26-with-david-nolen-aka-swannodette#t=48:17](https://soundcloud.com/defn-771544745/26-with-david-nolen-aka-swannodette#t=48:17)
+
  ## Eric Normand
 
 - "That's the secret for making things composable: start with the composition - before you even define how the thing will work" - Eric Normand
