@@ -83,6 +83,12 @@
 [https://youtu.be/bxLnpgnDApg?t=1895](https://youtu.be/bxLnpgnDApg?t=1895)
 - "With Clojure you are bringing a gun to a knife fight" - Neal Ford
 
+ ## Steward Halloway
+
+- "Commas are whitespace, so they're not shown anywhere in this notation. Most people coming from other programming languages like to see their things in their list delimited by commas. It's perfectly fine to do that [in Clojure] if you want to. Probably after a couple of weeks you'll get tired of typing the commas and start leaving them out. And then you'll start leaving them out when you're writing programs in other languages and you'll be irritated. It is a fact of life." - Steward Halloway
+[http://www.datomic.com/part-ii-the-datomic-information-model.html](http://www.datomic.com/part-ii-the-datomic-information-model.html) (4:55)
+
+
  ## Stuart Halloway
 
 - "If you have more things than names, your design is broken" - Stuart Halloway
@@ -368,6 +374,10 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://youtu.be/2V1FtfBDsLU?t=3869](https://youtu.be/2V1FtfBDsLU?t=3869)
 - "I think that this verification and whatnot is incredibly important. But it should be à la carte. Depending on what you need to do. Depending on the amount of money you have to spend. Depending on what you want to express. You should be able to pull different kinds of verification technology off the shelf and apply it. It should not be built-in. There's a diversity of needs, there's a diversity of approaches for doing it and a diversity of costs." - Rich Hickey
 [https://youtu.be/2V1FtfBDsLU?t=4169](https://youtu.be/2V1FtfBDsLU?t=4169)
+- "If only there was a function called ... unform. Which there is." - Rich Hickey
+[https://vimeo.com/195711510#t=1h19m55s](https://vimeo.com/195711510#t=1h19m55s)
+- "The first ten seconds David Nolen had this library [clojure.spec], he took his entire parser for om/next and threw it away. He specced his protocol and got a free parser with way better error messages than he had before." - Rich Hickey
+[https://vimeo.com/195711510#t=1h22m35s](https://vimeo.com/195711510#t=1h22m35s)
 
  ## Robert Martin
 
@@ -379,6 +389,8 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 - "The data parts of Clojure are fantastic. They allow us to get an amount of reuse that I never saw in any OO system I reused. Which was always the promise: there's this object and I can use it in lots of different ways. And I have not found that to be the case in practice. Whereas I find that the data centric approach and the generic programming model that Clojure provides to provide a tremendous amount of reuse." - Alex Miller
 [https://www.infoq.com/presentations/clojure-spec](https://www.infoq.com/presentations/clojure-spec) (6:40)
 
+- "A lot of big programs have some level of dynamicity in them. When you have a static type system you really have to build some sort of flexible system inside your program. Clojure does kind of the opposite. Y" - Alex Miller
+[https://youtu.be/tEWSw8H9KJU?t=689](https://youtu.be/tEWSw8H9KJU?t=689)
 
  ## Micha Niskin
 
