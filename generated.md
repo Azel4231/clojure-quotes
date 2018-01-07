@@ -437,6 +437,13 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 - "For me the real win with choosing a immutable functional language such as Clojure is around the 2/3 mark in a project. Just when a large traditional OO system starts to buckle under it’s own gravity and the business rules become harder to reach through the applied refactorings and introduction of design patterns, this is when a Clojure code-base will shine in comparison." - Jon Pither
 [http://www.pitheringabout.com/?p=1069](http://www.pitheringabout.com/?p=1069)
 
+ ## Milton Reder
+
+- "You can't use or even read about Datomic without it starting to change the way that you think about and approach problems." - Milton Reder
+[https://youtu.be/gcJmNYj4Mec?t=637](https://youtu.be/gcJmNYj4Mec?t=637)
+- "What we found was: Datomic was actually teaching us things we didn't know were lessons." - Milton Reder
+[https://youtu.be/gcJmNYj4Mec?t=736](https://youtu.be/gcJmNYj4Mec?t=736)
+
  ## James Reeves
 
 - "Haskell and Clojure have two different ideas for how to stop things from going wrong. Haskell's idea is: we're just going to build this framework of types. And when you stick within this framework of types, then you're limiting what can go wrong. [...] Clojure has a different idea and that's that things go wrong because they're too interconnected. The more things are interconnected, the harder it is for our brains to figure out what all the consequences of actions are. [...] Based on my experience it wasn't so much the types or the structure that caused me a problem, it was the interactions between things." - James Reeves
