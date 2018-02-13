@@ -167,6 +167,13 @@
 - "Cross region replication is another example of something that gets crazy easier because everything is indelible. Because you have this model it's not place-oriented programming. In order to replicate from one region to another all we have to do is stream stuff from place to place. We don't have to do any coordination that's like 'Oh my god this thing changed'. All those kinds of problems go away. It almost feels like cheating." - Stuart Halloway
 [https://youtu.be/Ljvhjei3tWU?t=1996](https://youtu.be/Ljvhjei3tWU?t=1996)
 
+ ## Bruce Hauman
+
+- "Clojure proper: I love it. Clojurescript as well though. I don't see myself using other languages... ever." - Bruce Hauman
+[https://soundcloud.com/defn-771544745/31-bruce-figgy-hauman-aka-bhauman#t=19:07](https://soundcloud.com/defn-771544745/31-bruce-figgy-hauman-aka-bhauman#t=19:07)
+- "I consider Clojure a kind of strange maximum. This may be it for a while guys!" - Bruce Hauman
+[https://soundcloud.com/defn-771544745/31-bruce-figgy-hauman-aka-bhauman#t=19:30](https://soundcloud.com/defn-771544745/31-bruce-figgy-hauman-aka-bhauman#t=19:30)
+
  ## Rich Hickey
 
 - "Multiple taxonomies in a single program. That's easy in Clojure." - Rich Hickey
@@ -385,6 +392,11 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 
 - "What language is it that meets all the criteria? What language would I choose if I had to choose today? Probably Clojure!" - Robert Martin
 [https://youtu.be/qxYuvnjUTxM?t=3110](https://youtu.be/qxYuvnjUTxM?t=3110)
+
+ ## Ray McDermott
+
+- "All the REPL stuff is really exciting. Because I think think that's a super-power of Clojure. I really do. If we're looking for what's the game-changer, it's not machine-learning. It's not all this sort of bullshit. Because every language can do that. But they haven't got a REPL. And if they've got one it's shit." - Ray McDermott
+[https://soundcloud.com/defn-771544745/31-bruce-figgy-hauman-aka-bhauman#t=1:17:27](https://soundcloud.com/defn-771544745/31-bruce-figgy-hauman-aka-bhauman#t=1:17:27)
 
  ## Alex Miller
 

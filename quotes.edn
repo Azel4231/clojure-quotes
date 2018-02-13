@@ -180,6 +180,10 @@
  #:clojure-quotes.core{:text "The first ten seconds David Nolen had this library [clojure.spec], he took his entire parser for om/next and threw it away. He specced his protocol and got a free parser with way better error messages than he had before.", :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://vimeo.com/195711510#t=1h22m35s"}}
 #:clojure-quotes.core{:text "We can associate the semantics with the attributes and not with the aggregates. Because we have fully-qualified symbols and keywords. And obviously spec is all about that.", :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://youtu.be/2V1FtfBDsLU?t=2699"}}
 #:clojure-quotes.core{:text "You can't use or even read about Datomic without it starting to change the way that you think about and approach problems.", :quotee "Milton Reder", :reference #:clojure-quotes.core{:url "https://youtu.be/gcJmNYj4Mec?t=637"}} 
-#:clojure-quotes.core{:text "What we found was: Datomic was actually teaching us things we didn't know were lessons.", :quotee "Milton Reder", :reference #:clojure-quotes.core{:url "https://youtu.be/gcJmNYj4Mec?t=736"}}
-
+ #:clojure-quotes.core{:text "What we found was: Datomic was actually teaching us things we didn't know were lessons.", :quotee "Milton Reder", :reference #:clojure-quotes.core{:url "https://youtu.be/gcJmNYj4Mec?t=736"}}
+ 
+#:clojure-quotes.core{:text "Clojure proper: I love it. Clojurescript as well though. I don't see myself using other languages... ever.", :quotee "Bruce Hauman", :reference #:clojure-quotes.core{:url "https://soundcloud.com/defn-771544745/31-bruce-figgy-hauman-aka-bhauman#t=19:07"}}
+#:clojure-quotes.core{:text "I consider Clojure a kind of strange maximum. This may be it for a while guys!", :quotee "Bruce Hauman", :reference #:clojure-quotes.core{:url "https://soundcloud.com/defn-771544745/31-bruce-figgy-hauman-aka-bhauman#t=19:30"}}
+#:clojure-quotes.core{:text "All the REPL stuff is really exciting. Because I think think that's a super-power of Clojure. I really do. If we're looking for what's the game-changer, it's not machine-learning. It's not all this sort of bullshit. Because every language can do that. But they haven't got a REPL. And if they've got one it's shit.", :quotee "Ray McDermott", :reference #:clojure-quotes.core{:url "https://soundcloud.com/defn-771544745/31-bruce-figgy-hauman-aka-bhauman#t=1:17:27"}}
+ ]
  ]
