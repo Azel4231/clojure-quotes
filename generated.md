@@ -83,12 +83,6 @@
 [https://youtu.be/bxLnpgnDApg?t=1895](https://youtu.be/bxLnpgnDApg?t=1895)
 - "With Clojure you are bringing a gun to a knife fight" - Neal Ford
 
- ## Steward Halloway
-
-- "Commas are whitespace, so they're not shown anywhere in this notation. Most people coming from other programming languages like to see their things in their list delimited by commas. It's perfectly fine to do that [in Clojure] if you want to. Probably after a couple of weeks you'll get tired of typing the commas and start leaving them out. And then you'll start leaving them out when you're writing programs in other languages and you'll be irritated. It is a fact of life." - Steward Halloway
-[http://www.datomic.com/part-ii-the-datomic-information-model.html](http://www.datomic.com/part-ii-the-datomic-information-model.html) (4:55)
-
-
  ## Stuart Halloway
 
 - "If you have more things than names, your design is broken" - Stuart Halloway
@@ -166,6 +160,9 @@
 
 - "Cross region replication is another example of something that gets crazy easier because everything is indelible. Because you have this model it's not place-oriented programming. In order to replicate from one region to another all we have to do is stream stuff from place to place. We don't have to do any coordination that's like 'Oh my god this thing changed'. All those kinds of problems go away. It almost feels like cheating." - Stuart Halloway
 [https://youtu.be/Ljvhjei3tWU?t=1996](https://youtu.be/Ljvhjei3tWU?t=1996)
+- "Commas are whitespace, so they're not shown anywhere in this notation. Most people coming from other programming languages like to see their things in their list delimited by commas. It's perfectly fine to do that [in Clojure] if you want to. Probably after a couple of weeks you'll get tired of typing the commas and start leaving them out. And then you'll start leaving them out when you're writing programs in other languages and you'll be irritated. It is a fact of life." - Stuart Halloway
+[http://www.datomic.com/part-ii-the-datomic-information-model.html](http://www.datomic.com/part-ii-the-datomic-information-model.html) (4:55)
+
 
  ## Bruce Hauman
 
