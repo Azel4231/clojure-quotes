@@ -384,6 +384,9 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://vimeo.com/195711510#t=1h22m35s](https://vimeo.com/195711510#t=1h22m35s)
 - "We can associate the semantics with the attributes and not with the aggregates. Because we have fully-qualified symbols and keywords. And obviously spec is all about that." - Rich Hickey
 [https://youtu.be/2V1FtfBDsLU?t=2699](https://youtu.be/2V1FtfBDsLU?t=2699)
+- "Data is essential. We're supposed to be writing programs that manipulate it and the first thing we do is: we ruin it, intstead of using it directly." - Rich Hickey
+[https://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012](https://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012) (35:05)
+
 
  ## Robert Martin
 
