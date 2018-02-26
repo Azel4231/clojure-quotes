@@ -444,6 +444,12 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [http://blog.cognitect.com/cognicast/034-michael-nygard](http://blog.cognitect.com/cognicast/034-michael-nygard) (27:05)
 
 
+ ## Russ Olsen
+
+- "I think of Clojure as kind of the greatest hits of the last 20 or 30 years of computer science. It's like that mix tape." - Russ Olsen
+[http://blog.cognitect.com/cognicast/138](http://blog.cognitect.com/cognicast/138) (45:20)
+
+
  ## Jon Pither
 
 - "For me the real win with choosing a immutable functional language such as Clojure is around the 2/3 mark in a project. Just when a large traditional OO system starts to buckle under it’s own gravity and the business rules become harder to reach through the applied refactorings and introduction of design patterns, this is when a Clojure code-base will shine in comparison." - Jon Pither
