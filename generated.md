@@ -388,6 +388,11 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012](https://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012) (35:05)
 
 
+ ## Lawrence Krubner
+
+- "Functional languages such as Haskell, Erlang and Clojure offer powerful approaches to the problems that software developers have always faced. All of the so-called strengths of OOP can be found in these languages." - Lawrence Krubner
+[http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end](http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end)
+
  ## Robert Martin
 
 - "What language is it that meets all the criteria? What language would I choose if I had to choose today? Probably Clojure!" - Robert Martin
