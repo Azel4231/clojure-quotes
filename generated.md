@@ -336,7 +336,7 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 - "As a simple example: here's a guitar player, a harp player, a double bass player all holding up their blisters. Imaging if you downloaded a library off the internet and it gave you blisters! The horror. And yet, every musician has overcome a barrier of entry similar to this." - Rich Hickey
 [https://www.infoq.com/presentations/Design-Composition-Performance](https://www.infoq.com/presentations/Design-Composition-Performance) (33:45)
 
-- "Clojure, I think, is completely unique amongst the languages on the JVM in promiting immutility and concurrency.  " - Rich Hickey
+- "Clojure, I think, is completely unique amongst the languages on the JVM in promoting immutility and concurrency.  " - Rich Hickey
 [https://youtu.be/P76Vbsk_3J0?t=1007](https://youtu.be/P76Vbsk_3J0?t=1007)
 - "These [persistent data structures] are very different beasts. They have excellent performance, yet they're immutable. It's sort of the secret sauce of Clojure. Without these you can't do what I do in a language." - Rich Hickey
 [https://youtu.be/P76Vbsk_3J0?t=2100](https://youtu.be/P76Vbsk_3J0?t=2100)
