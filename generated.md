@@ -163,6 +163,8 @@
 - "Commas are whitespace, so they're not shown anywhere in this notation. Most people coming from other programming languages like to see their things in their list delimited by commas. It's perfectly fine to do that [in Clojure] if you want to. Probably after a couple of weeks you'll get tired of typing the commas and start leaving them out. And then you'll start leaving them out when you're writing programs in other languages and you'll be irritated. It is a fact of life." - Stuart Halloway
 [http://www.datomic.com/part-ii-the-datomic-information-model.html](http://www.datomic.com/part-ii-the-datomic-information-model.html) (4:55)
 
+- "This is the kind of advantage that I'm talking about of writing code in a dynamic language. You end up with a very, very small number of very short very general purpose things. And these pieces all have to fit together. And if everything wasn't shorter, that would suck. Because I would still want to have the roadmaps that static typing gives me. I wouldn't wanna go here. And if I had to make as many things as I would have to make to build an OO system I'd still want the types. But I make ten times fewer things on small Clojure programs and a hundred times fewer things on large Clojure programs than I would make if I had to write them in OO." - Stuart Halloway
+[https://vimeo.com/68375202#t=34m30s](https://vimeo.com/68375202#t=34m30s)
 
  ## Bruce Hauman
 
