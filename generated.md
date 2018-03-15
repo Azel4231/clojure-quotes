@@ -165,6 +165,8 @@
 
 - "This is the kind of advantage that I'm talking about of writing code in a dynamic language. You end up with a very, very small number of very short very general purpose things. And these pieces all have to fit together. And if everything wasn't shorter, that would suck. Because I would still want to have the roadmaps that static typing gives me. I wouldn't wanna go here. And if I had to make as many things as I would have to make to build an OO system I'd still want the types. But I make ten times fewer things on small Clojure programs and a hundred times fewer things on large Clojure programs than I would make if I had to write them in OO." - Stuart Halloway
 [https://vimeo.com/68375202#t=34m30s](https://vimeo.com/68375202#t=34m30s)
+- "I think we should all get into functional and then we can argue about the static and dynamic thing, once we're at the end of the road. That static/dynamic debate is really kinda tiny compared to 'we need to be more functional and less imparative'. And so I think that Clojure and F# and Scala and ML and OCaml and all these guys, we're all on the same side here. We're all fighting for truth and justice together." - Stuart Halloway
+[https://vimeo.com/68375202#t=35m34s](https://vimeo.com/68375202#t=35m34s)
 
  ## Bruce Hauman
 
