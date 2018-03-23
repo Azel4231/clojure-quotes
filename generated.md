@@ -391,6 +391,8 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 - "Data is essential. We're supposed to be writing programs that manipulate it and the first thing we do is: we ruin it, intstead of using it directly." - Rich Hickey
 [https://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012](https://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012) (35:05)
 
+- "Programming is not mathematics. In mathematics you can swap any isomorphism for any other. In programming you get fired for doing that!" - Rich Hickey
+[https://youtu.be/2V1FtfBDsLU?t=3126](https://youtu.be/2V1FtfBDsLU?t=3126)
 
  ## Lawrence Krubner
 
