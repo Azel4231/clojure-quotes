@@ -393,6 +393,8 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 
 - "Programming is not mathematics. In mathematics you can swap any isomorphism for any other. In programming you get fired for doing that!" - Rich Hickey
 [https://youtu.be/2V1FtfBDsLU?t=3126](https://youtu.be/2V1FtfBDsLU?t=3126)
+- "Does the world fill out forms and fill everything out for you? All the things you'd like to know? No! It doesn't." - Rich Hickey
+[https://youtu.be/2V1FtfBDsLU?t=2277](https://youtu.be/2V1FtfBDsLU?t=2277)
 
  ## Lawrence Krubner
 
