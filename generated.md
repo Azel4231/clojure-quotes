@@ -395,6 +395,8 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://youtu.be/2V1FtfBDsLU?t=3126](https://youtu.be/2V1FtfBDsLU?t=3126)
 - "Does the world fill out forms and fill everything out for you? All the things you'd like to know? No! It doesn't." - Rich Hickey
 [https://youtu.be/2V1FtfBDsLU?t=2277](https://youtu.be/2V1FtfBDsLU?t=2277)
+- "We had a thing where we said in C++ is that: 'If it compiles it will probably work'. Like they say of Haskell. And it was equally true then as it is now." - Rich Hickey
+[https://youtu.be/2V1FtfBDsLU?t=2078](https://youtu.be/2V1FtfBDsLU?t=2078)
 
  ## Lawrence Krubner
 
