@@ -193,7 +193,13 @@
  #:clojure-quotes.core{:text "Programming is not mathematics. In mathematics you can swap any isomorphism for any other. In programming you get fired for doing that!" :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://youtu.be/2V1FtfBDsLU?t=3126"}}
  #:clojure-quotes.core{:text "Does the world fill out forms and fill everything out for you? All the things you'd like to know? No! It doesn't." :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://youtu.be/2V1FtfBDsLU?t=2277"}}
  #:clojure-quotes.core{:text "We had a thing where we said in C++ is that: 'If it compiles it will probably work'. Like they say of Haskell. And it was equally true then as it is now." :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://youtu.be/2V1FtfBDsLU?t=2078"}}
-
+ #:clojure-quotes.core{:text "Maps are collections of keys, they are not the stuff inside the keys. If I put on a hat it does not change what my family is. I'm still part of my family. My family contained these people before, it contains the same people later. I didn't version my family when I put on a hat. But we do this all the time." :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://youtu.be/oyLBGkS5ICk?t=1755"}}
+ #:clojure-quotes.core{:text "It's ok to hate Java and like the JVM. That's where I'm at." :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://youtu.be/cPNkH-7PRTk?t=133"}}
+ #:clojure-quotes.core{:text "Why do we base polymorphism on types alone? In the real world we don't categorize everything by a fundamental adverse type. Nobody is born a taxidriver or a painter or tall. But these typesystems work that way. You shall be tall and we'll make every decision about you based upon you being tall. Whereas most systems and most reality supports some sort of polymorphism based upon value, or current state or relationships to other things. So we need to sortof pull this stuff apart. Traditional object-orientation has put us in this rut where we can't even see the difference between these things." :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://youtu.be/cPNkH-7PRTk?t=908"}}
+ #:clojure-quotes.core{:text "I don't believe in disallowing dangerous things. Because sometimes dangerous things are useful." :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://youtu.be/cPNkH-7PRTk?t=2982"}}
+ #:clojure-quotes.core{:text "I shouldn't dictate to you it be this particular type in order to interact with my API. That has to stop. Let people just glop stuff on so they can talk to you and not have to BE something so they can interact with you." :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://youtu.be/7mbcYxHO0nM?t=549"}}
+ #:clojure-quotes.core{:text "Why does hierarchy have to be in types? Why stick it there? It's a dungeon." :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://youtu.be/7mbcYxHO0nM?t=652"}}
  
+  
  ]
  

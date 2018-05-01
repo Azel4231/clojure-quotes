@@ -397,6 +397,18 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://youtu.be/2V1FtfBDsLU?t=2277](https://youtu.be/2V1FtfBDsLU?t=2277)
 - "We had a thing where we said in C++ is that: 'If it compiles it will probably work'. Like they say of Haskell. And it was equally true then as it is now." - Rich Hickey
 [https://youtu.be/2V1FtfBDsLU?t=2078](https://youtu.be/2V1FtfBDsLU?t=2078)
+- "Maps are collections of keys, they are not the stuff inside the keys. If I put on a hat it does not change what my family is. I'm still part of my family. My family contained these people before, it contains the same people later. I didn't version my family when I put on a hat. But we do this all the time." - Rich Hickey
+[https://youtu.be/oyLBGkS5ICk?t=1755](https://youtu.be/oyLBGkS5ICk?t=1755)
+- "It's ok to hate Java and like the JVM. That's where I'm at." - Rich Hickey
+[https://youtu.be/cPNkH-7PRTk?t=133](https://youtu.be/cPNkH-7PRTk?t=133)
+- "Why do we base polymorphism on types alone? In the real world we don't categorize everything by a fundamental adverse type. Nobody is born a taxidriver or a painter or tall. But these typesystems work that way. You shall be tall and we'll make every decision about you based upon you being tall. Whereas most systems and most reality supports some sort of polymorphism based upon value, or current state or relationships to other things. So we need to sortof pull this stuff apart. Traditional object-orientation has put us in this rut where we can't even see the difference between these things." - Rich Hickey
+[https://youtu.be/cPNkH-7PRTk?t=908](https://youtu.be/cPNkH-7PRTk?t=908)
+- "I don't believe in disallowing dangerous things. Because sometimes dangerous things are useful." - Rich Hickey
+[https://youtu.be/cPNkH-7PRTk?t=2982](https://youtu.be/cPNkH-7PRTk?t=2982)
+- "I shouldn't dictate to you it be this particular type in order to interact with my API. That has to stop. Let people just glop stuff on so they can talk to you and not have to BE something so they can interact with you." - Rich Hickey
+[https://youtu.be/7mbcYxHO0nM?t=549](https://youtu.be/7mbcYxHO0nM?t=549)
+- "Why does hierarchy have to be in types? Why stick it there? It's a dungeon." - Rich Hickey
+[https://youtu.be/7mbcYxHO0nM?t=652](https://youtu.be/7mbcYxHO0nM?t=652)
 
  ## Lawrence Krubner
 
