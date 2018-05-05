@@ -409,6 +409,17 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://youtu.be/7mbcYxHO0nM?t=549](https://youtu.be/7mbcYxHO0nM?t=549)
 - "Why does hierarchy have to be in types? Why stick it there? It's a dungeon." - Rich Hickey
 [https://youtu.be/7mbcYxHO0nM?t=652](https://youtu.be/7mbcYxHO0nM?t=652)
+- "As long as people are writing functional languages and writing in functional languages they will serve as examples. And some younger programmers will never have seen something else and won't have to unlearn a bunch of bad habits." - Rich Hickey
+[http://www.case-podcast.org/20-problem-solving-and-clojure-19-with-rich-hickey](http://www.case-podcast.org/20-problem-solving-and-clojure-19-with-rich-hickey) (48:00)
+
+- "Certainly you wanna be doing functional programming primarily. Not that you can avoid doing anything else at all times, but that should be the default for sure. And I think you should be working in a language that makes those things idiomatic. So that you're not fighting against a different paradigm." - Rich Hickey
+[http://www.case-podcast.org/20-problem-solving-and-clojure-19-with-rich-hickey](http://www.case-podcast.org/20-problem-solving-and-clojure-19-with-rich-hickey) (52:17)
+
+- "I'd rather chew on a problem for ten days out of two weeks and code for the other four than to agilly rewrite it six times in four weeks and then sill have it be wrong." - Rich Hickey
+[http://www.case-podcast.org/20-problem-solving-and-clojure-19-with-rich-hickey](http://www.case-podcast.org/20-problem-solving-and-clojure-19-with-rich-hickey) (56:43)
+
+- "It's not all about your programming language. We all get infatuated with our programming languages. But you know what? I am actually pretty skeptical about programming languages being the key to programming. I do not think they are. They are a small part of programming. They are not the driver of programming." - Rich Hickey
+[https://youtu.be/2V1FtfBDsLU?t=4448](https://youtu.be/2V1FtfBDsLU?t=4448)
 
  ## Lawrence Krubner
 
