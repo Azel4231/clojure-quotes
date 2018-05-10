@@ -420,6 +420,12 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 
 - "It's not all about your programming language. We all get infatuated with our programming languages. But you know what? I am actually pretty skeptical about programming languages being the key to programming. I do not think they are. They are a small part of programming. They are not the driver of programming." - Rich Hickey
 [https://youtu.be/2V1FtfBDsLU?t=4448](https://youtu.be/2V1FtfBDsLU?t=4448)
+- "There will be sources of change. You can't build systems that don't have any change. But that is not something to slather all over your application. It is something to say 'I am really scared of this'" - Rich Hickey
+[https://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012](https://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012) (27:19)
+
+- "Objects - especially in the very traditional sense or as delivered by languages like Java - boy, you just go on and on and on. What is a class? It's got state, it's got identity, it's got values, it's got operations. It's like a kitchen sink of stuff poured together. And every time you take one out to solve a problem you're starting with three or four strands already wrapped together. [...] These are terrible constructs form a complexity standpoint." - Rich Hickey
+[https://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012](https://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012) (30:20)
+
 
  ## Lawrence Krubner
 
