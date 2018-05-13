@@ -426,6 +426,9 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 - "Objects - especially in the very traditional sense or as delivered by languages like Java - boy, you just go on and on and on. What is a class? It's got state, it's got identity, it's got values, it's got operations. It's like a kitchen sink of stuff poured together. And every time you take one out to solve a problem you're starting with three or four strands already wrapped together. [...] These are terrible constructs form a complexity standpoint." - Rich Hickey
 [https://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012](https://www.infoq.com/presentations/Simple-Made-Easy-QCon-London-2012) (30:20)
 
+- "Data. Please. We're programmers. We supposedly write data processing programs. There's all these programs that don't have any data in them. All these constructs we put around it and globbed on top of data. Data is actually really simple. There's not a tremendous number of variations in the essential nature of data. There are maps, there are sets, there are linear sequential things. There's not a lot of other conceptual categories of data. [In OO]  We create hundreds of thousands of variations that have nothing to do with the essence of the stuff, and make it hard to write programs that manipulate the essence of the stuff. We should just manipulate the essence of the stuff!" - Rich Hickey
+[https://www.infoq.com/presentations/Simple-Made-Easy](https://www.infoq.com/presentations/Simple-Made-Easy) (44:30)
+
 
  ## Lawrence Krubner
 
