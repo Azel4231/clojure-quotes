@@ -496,6 +496,8 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 - "I think of Clojure as kind of the greatest hits of the last 20 or 30 years of computer science. It's like that mix tape." - Russ Olsen
 [http://blog.cognitect.com/cognicast/138](http://blog.cognitect.com/cognicast/138) (45:20)
 
+- "I think of Clojure as kind of the greatest hits of the last 20 or 30 years of computer science. It's like that mix tape from the Guardians of the Galaxy, only in software." - Russ Olsen
+[https://twitter.com/russolsen/status/1002654312047181824](https://twitter.com/russolsen/status/1002654312047181824)
 
  ## Jon Pither
 
