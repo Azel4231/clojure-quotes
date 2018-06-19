@@ -429,6 +429,10 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 - "Data. Please. We're programmers. We supposedly write data processing programs. There's all these programs that don't have any data in them. All these constructs we put around it and globbed on top of data. Data is actually really simple. There's not a tremendous number of variations in the essential nature of data. There are maps, there are sets, there are linear sequential things. There's not a lot of other conceptual categories of data. [In OO]  We create hundreds of thousands of variations that have nothing to do with the essence of the stuff, and make it hard to write programs that manipulate the essence of the stuff. We should just manipulate the essence of the stuff!" - Rich Hickey
 [https://www.infoq.com/presentations/Simple-Made-Easy](https://www.infoq.com/presentations/Simple-Made-Easy) (44:30)
 
+- "Programming is not about typing, it's about thinking." - Rich Hickey
+[https://twitter.com/CodeWisdom/status/1006530061942575105](https://twitter.com/CodeWisdom/status/1006530061942575105)
+- "Dependency hell is not a different thing than mutability hell. It is the same thing. It is mutability hell. It's just at this scale." - Rich Hickey
+[https://youtu.be/oyLBGkS5ICk?t=4036](https://youtu.be/oyLBGkS5ICk?t=4036)
 
  ## Lawrence Krubner
 
