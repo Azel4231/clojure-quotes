@@ -167,6 +167,8 @@
 [https://vimeo.com/68375202#t=34m30s](https://vimeo.com/68375202#t=34m30s)
 - "I think we should all get into functional and then we can argue about the static and dynamic thing, once we're at the end of the road. That static/dynamic debate is really kinda tiny compared to 'we need to be more functional and less imparative'. And so I think that Clojure and F# and Scala and ML and OCaml and all these guys, we're all on the same side here. We're all fighting for truth and justice together." - Stuart Halloway
 [https://vimeo.com/68375202#t=35m34s](https://vimeo.com/68375202#t=35m34s)
+- "[Clojure has] a learning curve that leads to expertise, not better-beginnerness." - Stuart Halloway
+[https://twitter.com/stuarthalloway/status/1010148933144805377](https://twitter.com/stuarthalloway/status/1010148933144805377)
 
  ## Bruce Hauman
 
@@ -337,7 +339,7 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 - "Instruments are made for people who can play them. Isn't that outrageous? Isn't that scandalous? The are made for people who can actually play them. And that's a problem. Because beginners can't play. They're not yet players. The don't know how to do it. Again, I think, there should be outrage on the internet. We should submit patches. We should fix like the Cello. Should Cellos auto-tune? Or maybe they should have red and green lights. It's green when you're in tune, it's red when you're not in tune. Or maybe they shouldn't make any sound at all until you get it right. Is that how it works? is that what we want? No, that's not how it works. Look at these kid's. They're being subjected to cellos. There's nothing helping them here. [...] They're smaller but those are real cellos. They're hard to play, they're awkward, the sound terrible. They're out of tune. It's gonna be tough for a while for these kids" - Rich Hickey
 [https://www.infoq.com/presentations/Design-Composition-Performance](https://www.infoq.com/presentations/Design-Composition-Performance) (32:00)
 
-- "As a simple example: here's a guitar player, a harp player, a double bass player all holding up their blisters. Imaging if you downloaded a library off the internet and it gave you blisters! The horror. And yet, every musician has overcome a barrier of entry similar to this." - Rich Hickey
+- "As a simple example: here's a guitar player, a harp player, a double bass player all holding up their blisters. Imagine if you downloaded a library off the internet and it gave you blisters! The horror. And yet, every musician has overcome a barrier of entry similar to this." - Rich Hickey
 [https://www.infoq.com/presentations/Design-Composition-Performance](https://www.infoq.com/presentations/Design-Composition-Performance) (33:45)
 
 - "Clojure, I think, is completely unique amongst the languages on the JVM in promoting immutility and concurrency.  " - Rich Hickey
