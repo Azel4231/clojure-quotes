@@ -9,6 +9,13 @@
 - "So as my friend always says: "static typing doesn't solve problems I have"" - Timothy Baldridge
 [https://www.reddit.com/r/Clojure/comments/6wn6t5/new_clojurians_ask_anything/dmacli6/](https://www.reddit.com/r/Clojure/comments/6wn6t5/new_clojurians_ask_anything/dmacli6/)
 
+ ## Eli Bendersky
+
+- "Whatever you background, Clojure is almost guaranteed to affect the way you think about programming." - Eli Bendersky
+[https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
+- "It's chock-full of great ideas. In other words, the perfect language to expand your brain." - Eli Bendersky
+[https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
+
  ## Arne Brasseur
 
 - "Clojure Spec is one of the most exciting things to happen in Clojure land, and probably programming in general, in a while." - Arne Brasseur
@@ -25,6 +32,11 @@
 [https://www.quora.com/What-do-you-like-the-most-in-Clojure-How-did-you-find-it](https://www.quora.com/What-do-you-like-the-most-in-Clojure-How-did-you-find-it)
 - "What I like most about Clojure is that it is fun to use!" - Sean Corfield
 [https://www.quora.com/What-do-you-like-the-most-in-Clojure-How-did-you-find-it](https://www.quora.com/What-do-you-like-the-most-in-Clojure-How-did-you-find-it)
+
+ ## Mark Engelberg
+
+- "It's not just about concision. Yes, it's nice that you can do this in nine lines. But what's really cool about it is because I didn't need to sit down an specify all these classes about what my data was gonna look like ahead of time, I ended up with code that's more general." - Mark Engelberg
+[https://youtu.be/Qdiq1GwFEX0?t=1084](https://youtu.be/Qdiq1GwFEX0?t=1084)
 
  ## Tim Ewald
 
@@ -563,3 +575,11 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 
 - "I would highly recommend anybody who's already in the JVM space, I pretty much think you should stop what you're doing and take a look right now. Because it's almost certainly gonna solve a whole world of hurt you may already find yourself in." - Robert Stuttaford
 [https://zadevchat.io/48/](https://zadevchat.io/48/) (1:06:23)
+
+
+ ## Derek Troy-West
+
+- "Clojue is the bee's knees for this sort of problem." - Derek Troy-West
+[https://youtu.be/4sUaF4m5TWI?t=106](https://youtu.be/4sUaF4m5TWI?t=106)
+- "Building systems that ingest data, transform data, retain data and return data at some point - Clojure is just at this really sweet nexus of being able to leverage the JVM and all the fine libraries that come along with it. Also being able to shed an enormous amount of cognitive load. Object modelling, object hierarchies..." - Derek Troy-West
+[https://youtu.be/4sUaF4m5TWI?t=125](https://youtu.be/4sUaF4m5TWI?t=125)
