@@ -33,6 +33,11 @@
 - "What I like most about Clojure is that it is fun to use!" - Sean Corfield
 [https://www.quora.com/What-do-you-like-the-most-in-Clojure-How-did-you-find-it](https://www.quora.com/What-do-you-like-the-most-in-Clojure-How-did-you-find-it)
 
+ ## Oliver Eidel
+
+- "The learning curve is significant but the advantages are tremendous. I wholeheartedly recommend learning Clojure even if you're not allowed to use it at your job. It sounds cliché, but it will make you a better programmer for sure." - Oliver Eidel
+[https://news.ycombinator.com/item?id=17946728](https://news.ycombinator.com/item?id=17946728)
+
  ## Mark Engelberg
 
 - "It's not just about concision. Yes, it's nice that you can do this in nine lines. But what's really cool about it is because I didn't need to sit down an specify all these classes about what my data was gonna look like ahead of time, I ended up with code that's more general." - Mark Engelberg
@@ -181,6 +186,8 @@
 [https://vimeo.com/68375202#t=35m34s](https://vimeo.com/68375202#t=35m34s)
 - "[Clojure has] a learning curve that leads to expertise, not better-beginnerness." - Stuart Halloway
 [https://twitter.com/stuarthalloway/status/1010148933144805377](https://twitter.com/stuarthalloway/status/1010148933144805377)
+- "Coding alive, against a tangible runtime, where you're in your program invoking your tools, instead of living in your tools invoking your program." - Stuart Halloway
+[https://youtu.be/Qx0-pViyIDU?t=2331](https://youtu.be/Qx0-pViyIDU?t=2331)
 
  ## Bruce Hauman
 
@@ -545,6 +552,11 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 
 - "In a Clojure world external DSL tools, or specialized code generators will not have any future. They seem just like incidental complexity, required to make working with a broken language bearable. I know, most of us do not earn their money in the Clojure world. That makes these external meta tools valuable. But not desirable. " - Falko Riemenschneider
 [http://www.falkoriemenschneider.de/a__2013-07-04__Clojure-vs-MDSD.html](http://www.falkoriemenschneider.de/a__2013-07-04__Clojure-vs-MDSD.html)
+
+ ## Christian Stamm
+
+- "Clojure has that way of seemingly effortless materializing one’s thoughts into working code that I do not know from any other language." - Christian Stamm
+[https://dev.otto.de/2017/05/29/with-clojure-we-get-a-whole-lot-of-stuff-done-seriously/](https://dev.otto.de/2017/05/29/with-clojure-we-get-a-whole-lot-of-stuff-done-seriously/)
 
  ## Robert Stuttaford
 

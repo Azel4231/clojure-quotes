@@ -214,8 +214,13 @@
 #:clojure-quotes.core{:text "Building systems that ingest data, transform data, retain data and return data at some point - Clojure is just at this really sweet nexus of being able to leverage the JVM and all the fine libraries that come along with it. Also being able to shed an enormous amount of cognitive load. Object modelling, object hierarchies..." :quotee "Derek Troy-West", :reference #:clojure-quotes.core{:url "https://youtu.be/4sUaF4m5TWI?t=125"}}
 #:clojure-quotes.core{:text "Whatever you background, Clojure is almost guaranteed to affect the way you think about programming." :quotee "Eli Bendersky", :reference #:clojure-quotes.core{:url "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/"}}
 #:clojure-quotes.core{:text "It's chock-full of great ideas. In other words, the perfect language to expand your brain." :quotee "Eli Bendersky", :reference #:clojure-quotes.core{:url "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/"}}
+#:clojure-quotes.core{:text "The learning curve is significant but the advantages are tremendous. I wholeheartedly recommend learning Clojure even if you're not allowed to use it at your job. It sounds cliché, but it will make you a better programmer for sure." :quotee "Oliver Eidel", :reference #:clojure-quotes.core{:url "https://news.ycombinator.com/item?id=17946728"}}
 
+ #:clojure-quotes.core{:text "Coding alive, against a tangible runtime, where you're in your program invoking your tools, instead of living in your tools invoking your program." :quotee "Stuart Halloway", :reference #:clojure-quotes.core{:url "https://youtu.be/Qx0-pViyIDU?t=2331"}}
+#:clojure-quotes.core{:text "Clojure has that way of seemingly effortless materializing one’s thoughts into working code that I do not know from any other language." :quotee "Christian Stamm", :reference #:clojure-quotes.core{:url "https://dev.otto.de/2017/05/29/with-clojure-we-get-a-whole-lot-of-stuff-done-seriously/"}}
+ 
 
+ 
 #_(comment #:clojure-quotes.core{:text "" :quotee "", :reference #:clojure-quotes.core{:url ""}})
 
  
