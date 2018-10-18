@@ -454,6 +454,8 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://twitter.com/CodeWisdom/status/1006530061942575105](https://twitter.com/CodeWisdom/status/1006530061942575105)
 - "Dependency hell is not a different thing than mutability hell. It is the same thing. It is mutability hell. It's just at this scale." - Rich Hickey
 [https://youtu.be/oyLBGkS5ICk?t=4036](https://youtu.be/oyLBGkS5ICk?t=4036)
+- "It is a major failing of most programming languages and type systems that they are ignorant and unsupportive of a program's evolution over time. It need not be this way. Thus the [talk](https://www.youtube.com/watch?v=oyLBGkS5ICk)." - Rich Hickey
+[https://gist.github.com/timvisher/fedca54261211a7584a62abd14f60906](https://gist.github.com/timvisher/fedca54261211a7584a62abd14f60906)
 
  ## Lawrence Krubner
 
@@ -595,3 +597,8 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://youtu.be/4sUaF4m5TWI?t=106](https://youtu.be/4sUaF4m5TWI?t=106)
 - "Building systems that ingest data, transform data, retain data and return data at some point - Clojure is just at this really sweet nexus of being able to leverage the JVM and all the fine libraries that come along with it. Also being able to shed an enormous amount of cognitive load. Object modelling, object hierarchies..." - Derek Troy-West
 [https://youtu.be/4sUaF4m5TWI?t=125](https://youtu.be/4sUaF4m5TWI?t=125)
+
+ ## Valentin Waeselynck
+
+- "I did consider other stacks like SQL and using languages like python. But when I met the pros and cons of each alternative Clojure and Datomic always won, because they really solved the hard problems." - Valentin Waeselynck
+[https://soundcloud.com/defn-771544745/38-climbing-hammock-mountain-with-valentin-waeselynck-aka-val_waeselynck#t=9:35](https://soundcloud.com/defn-771544745/38-climbing-hammock-mountain-with-valentin-waeselynck-aka-val_waeselynck#t=9:35)
