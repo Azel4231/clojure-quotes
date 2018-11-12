@@ -456,6 +456,9 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://youtu.be/oyLBGkS5ICk?t=4036](https://youtu.be/oyLBGkS5ICk?t=4036)
 - "It is a major failing of most programming languages and type systems that they are ignorant and unsupportive of a program's evolution over time. It need not be this way. Thus the [talk](https://www.youtube.com/watch?v=oyLBGkS5ICk)." - Rich Hickey
 [https://gist.github.com/timvisher/fedca54261211a7584a62abd14f60906](https://gist.github.com/timvisher/fedca54261211a7584a62abd14f60906)
+- "When you combine two pieces of data you get data. When you combine two machines you get trouble." - Rich Hickey
+[https://www.infoq.com/presentations/datomic-functional-database](https://www.infoq.com/presentations/datomic-functional-database) (14:48)
+
 
  ## Lawrence Krubner
 
@@ -479,6 +482,8 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 
 - "A lot of big programs have some level of dynamicity in them. When you have a static type system you really have to build some sort of flexible system inside your program. Clojure does kind of the opposite. Y" - Alex Miller
 [https://youtu.be/tEWSw8H9KJU?t=689](https://youtu.be/tEWSw8H9KJU?t=689)
+- "Clojure is the least worst programming language I’ve ever used." - Alex Miller
+[https://twitter.com/puredanger/status/1054956529244426240](https://twitter.com/puredanger/status/1054956529244426240)
 
  ## Micha Niskin
 
@@ -602,3 +607,5 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 
 - "I did consider other stacks like SQL and using languages like python. But when I met the pros and cons of each alternative Clojure and Datomic always won, because they really solved the hard problems." - Valentin Waeselynck
 [https://soundcloud.com/defn-771544745/38-climbing-hammock-mountain-with-valentin-waeselynck-aka-val_waeselynck#t=9:35](https://soundcloud.com/defn-771544745/38-climbing-hammock-mountain-with-valentin-waeselynck-aka-val_waeselynck#t=9:35)
+- "Any sufficiently advanced conventional Event Sourcing system contains an ad-hoc, informally-specified, bug-ridden, slow implementation of half Datomic." - Valentin Waeselynck
+[https://vvvvalvalval.github.io/posts/2018-11-12-datomic-event-sourcing-without-the-hassle.html](https://vvvvalvalval.github.io/posts/2018-11-12-datomic-event-sourcing-without-the-hassle.html)

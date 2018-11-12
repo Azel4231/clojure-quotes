@@ -220,8 +220,10 @@
  #:clojure-quotes.core{:text "Clojure has that way of seemingly effortless materializing one’s thoughts into working code that I do not know from any other language." :quotee "Christian Stamm", :reference #:clojure-quotes.core{:url "https://dev.otto.de/2017/05/29/with-clojure-we-get-a-whole-lot-of-stuff-done-seriously/"}}
  #:clojure-quotes.core{:text "It is a major failing of most programming languages and type systems that they are ignorant and unsupportive of a program's evolution over time. It need not be this way. Thus the [talk](https://www.youtube.com/watch?v=oyLBGkS5ICk)." :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://gist.github.com/timvisher/fedca54261211a7584a62abd14f60906"}}
  #:clojure-quotes.core{:text "I did consider other stacks like SQL and using languages like python. But when I met the pros and cons of each alternative Clojure and Datomic always won, because they really solved the hard problems." :quotee "Valentin Waeselynck", :reference #:clojure-quotes.core{:url "https://soundcloud.com/defn-771544745/38-climbing-hammock-mountain-with-valentin-waeselynck-aka-val_waeselynck#t=9:35"}}
-
+ #:clojure-quotes.core{:text "Clojure is the least worst programming language I’ve ever used." :quotee "Alex Miller", :reference #:clojure-quotes.core{:url "https://twitter.com/puredanger/status/1054956529244426240"}}
+ #:clojure-quotes.core{:text "When you combine two pieces of data you get data. When you combine two machines you get trouble." :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://www.infoq.com/presentations/datomic-functional-database" :time "14:48"}}
  
+#:clojure-quotes.core{:text "Any sufficiently advanced conventional Event Sourcing system contains an ad-hoc, informally-specified, bug-ridden, slow implementation of half Datomic." :quotee "Valentin Waeselynck", :reference #:clojure-quotes.core{:url "https://vvvvalvalval.github.io/posts/2018-11-12-datomic-event-sourcing-without-the-hassle.html"}}
 #_(comment #:clojure-quotes.core{:text "" :quotee "", :reference #:clojure-quotes.core{:url ""}})
 
  
