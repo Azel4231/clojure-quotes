@@ -21,6 +21,11 @@
 - "Clojure Spec is one of the most exciting things to happen in Clojure land, and probably programming in general, in a while." - Arne Brasseur
 [https://youtu.be/-MeOPF94LhI?t=23](https://youtu.be/-MeOPF94LhI?t=23)
 
+ ## Kurt Christensen
+
+- "When I chase down an odd bug in my code, I usually end up learning about the accidental complexity of some tech stack. When I chase down an odd bug in my Clojure code, I usually learn something about good design." - Kurt Christensen
+[https://twitter.com/projectileboy/status/1101642002167447553](https://twitter.com/projectileboy/status/1101642002167447553)
+
  ## Adrien Cockroft
 
 - "A lot of the best programmers and the most productive programmers I know are writing everything in Clojure and swearing by it, and then just producing ridiculously sophisticated things in a very short time. And that programmer productivity matters." - Adrien Cockroft
@@ -188,6 +193,8 @@
 [https://twitter.com/stuarthalloway/status/1010148933144805377](https://twitter.com/stuarthalloway/status/1010148933144805377)
 - "Coding alive, against a tangible runtime, where you're in your program invoking your tools, instead of living in your tools invoking your program." - Stuart Halloway
 [https://youtu.be/Qx0-pViyIDU?t=2331](https://youtu.be/Qx0-pViyIDU?t=2331)
+- "Busywork begets busywork. If the constraints of your programming language make this a good idea, is it time for a different language." - Stuart Halloway
+[https://twitter.com/stuarthalloway/status/1091802187964002305](https://twitter.com/stuarthalloway/status/1091802187964002305)
 
  ## Bruce Hauman
 

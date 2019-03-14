@@ -223,7 +223,10 @@
  #:clojure-quotes.core{:text "Clojure is the least worst programming language I’ve ever used." :quotee "Alex Miller", :reference #:clojure-quotes.core{:url "https://twitter.com/puredanger/status/1054956529244426240"}}
  #:clojure-quotes.core{:text "When you combine two pieces of data you get data. When you combine two machines you get trouble." :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://www.infoq.com/presentations/datomic-functional-database" :time "14:48"}}
  
-#:clojure-quotes.core{:text "Any sufficiently advanced conventional Event Sourcing system contains an ad-hoc, informally-specified, bug-ridden, slow implementation of half Datomic." :quotee "Valentin Waeselynck", :reference #:clojure-quotes.core{:url "https://vvvvalvalval.github.io/posts/2018-11-12-datomic-event-sourcing-without-the-hassle.html"}}
+ #:clojure-quotes.core{:text "Any sufficiently advanced conventional Event Sourcing system contains an ad-hoc, informally-specified, bug-ridden, slow implementation of half Datomic." :quotee "Valentin Waeselynck", :reference #:clojure-quotes.core{:url "https://vvvvalvalval.github.io/posts/2018-11-12-datomic-event-sourcing-without-the-hassle.html"}}
+#:clojure-quotes.core{:text "Busywork begets busywork. If the constraints of your programming language make this a good idea, is it time for a different language." :quotee "Stuart Halloway", :reference #:clojure-quotes.core{:url "https://twitter.com/stuarthalloway/status/1091802187964002305"}}
+#:clojure-quotes.core{:text "When I chase down an odd bug in my code, I usually end up learning about the accidental complexity of some tech stack. When I chase down an odd bug in my Clojure code, I usually learn something about good design." :quotee "Kurt Christensen", :reference #:clojure-quotes.core{:url "https://twitter.com/projectileboy/status/1101642002167447553"}}
+ 
 #_(comment #:clojure-quotes.core{:text "" :quotee "", :reference #:clojure-quotes.core{:url ""}})
 
  
