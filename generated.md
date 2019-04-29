@@ -492,6 +492,13 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 - "Clojure is the least worst programming language I’ve ever used." - Alex Miller
 [https://twitter.com/puredanger/status/1054956529244426240](https://twitter.com/puredanger/status/1054956529244426240)
 
+ ## Blake Miller
+
+- "The result is that the few people who were open-minded and adventuresome enough to kick the tires of early Clojure and were willing to step outside their preconceived notions of what software is in the pursuit of doing it better, all (in my limited anecdotal experience) discovered that its distinctive design and careful expert implementation really did allow them to build a lot of materially better business software." - Blake Miller
+[https://www.quora.com/Why-did-Clojure-gain-so-much-popularity/answer/Blake-Miller-7](https://www.quora.com/Why-did-Clojure-gain-so-much-popularity/answer/Blake-Miller-7)
+- "So although there’s no magic bullet, my feeling is that Clojure might at least qualify as a mildly-enchanted handmade titanium crossbow or something like that." - Blake Miller
+[https://www.quora.com/Why-did-Clojure-gain-so-much-popularity/answer/Blake-Miller-7](https://www.quora.com/Why-did-Clojure-gain-so-much-popularity/answer/Blake-Miller-7)
+
  ## Micha Niskin
 
 - "For me Clojure is very unique. Things like boot, javelin and hoplon are very rewarding to me. They're things, as far as my use of them, professionally to make money and to get actual work done, they're pretty much done. They do everything we need them to do. And we're moving on, you know, we're thinking about other problems now. And we don't need to keep solving these problems. And I have never experienced that before using Clojure." - Micha Niskin
