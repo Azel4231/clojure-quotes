@@ -195,6 +195,8 @@
 [https://youtu.be/Qx0-pViyIDU?t=2331](https://youtu.be/Qx0-pViyIDU?t=2331)
 - "Busywork begets busywork. If the constraints of your programming language make this a good idea, is it time for a different language." - Stuart Halloway
 [https://twitter.com/stuarthalloway/status/1091802187964002305](https://twitter.com/stuarthalloway/status/1091802187964002305)
+- "If you don't think managing state is tricky, consider the fact that 80% of all problems in all complex systems are fixed by rebooting." - Stuart Halloway
+[https://twitter.com/stuarthalloway/status/1134806008528809985](https://twitter.com/stuarthalloway/status/1134806008528809985)
 
  ## Bruce Hauman
 
@@ -472,6 +474,11 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 - "Functional languages such as Haskell, Erlang and Clojure offer powerful approaches to the problems that software developers have always faced. All of the so-called strengths of OOP can be found in these languages." - Lawrence Krubner
 [http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end](http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end)
 
+ ## Orestis Markou
+
+- "With Clojure we found that the very very low friction to get things done enables you to do things that you'd otherwise never even consider" - Orestis Markou
+[https://orestis.gr/clojure-unlocking-incremental-automation/](https://orestis.gr/clojure-unlocking-incremental-automation/)
+
  ## Robert Martin
 
 - "What language is it that meets all the criteria? What language would I choose if I had to choose today? Probably Clojure!" - Robert Martin
@@ -481,6 +488,12 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 
 - "All the REPL stuff is really exciting. Because I think think that's a super-power of Clojure. I really do. If we're looking for what's the game-changer, it's not machine-learning. It's not all this sort of bullshit. Because every language can do that. But they haven't got a REPL. And if they've got one it's shit." - Ray McDermott
 [https://soundcloud.com/defn-771544745/31-bruce-figgy-hauman-aka-bhauman#t=1:17:27](https://soundcloud.com/defn-771544745/31-bruce-figgy-hauman-aka-bhauman#t=1:17:27)
+
+ ## Mia
+
+- "Anything complex I had done, I had done in JavaScript which obviously you can do much better in Clojurescript. I mean ClojureScript is without question the best way to do react. And React is the best JavaScript." - Mia
+[https://www.nomanifestos.com/episodes/3](https://www.nomanifestos.com/episodes/3) (37:30)
+
 
  ## Alex Miller
 
