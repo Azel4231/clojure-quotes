@@ -16,6 +16,11 @@
 - "It's chock-full of great ideas. In other words, the perfect language to expand your brain." - Eli Bendersky
 [https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/](https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/)
 
+ ## Brandon Bloom
+
+- "Because Clojure is seriously good shit, and it has been for over a decade." - Brandon Bloom
+[https://twitter.com/BrandonBloom/status/1152070968396808193](https://twitter.com/BrandonBloom/status/1152070968396808193)
+
  ## Arne Brasseur
 
 - "Clojure Spec is one of the most exciting things to happen in Clojure land, and probably programming in general, in a while." - Arne Brasseur
@@ -581,6 +586,8 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 - "Clojure stops you from doing the wrong things through isolation, whereas Haskell stops you from doing wrong things by being restrictive." - James Reeves
 [https://defn.audio/2017/05/11/episode-21-james-reeves-aka-weavejester/](https://defn.audio/2017/05/11/episode-21-james-reeves-aka-weavejester/) (23:05)
 
+- "One of the things I quite like about Clojure ist that it has this wide range of power. You have very simple things like an immutable map, which is at the lowest end of power. [...] And at the other end of the spectrum we have macros which are like the most powerful thing in Clojure. So Clojure has this kind of very wide range of, we can use limited stuff when we need to and we can use powerful stuff when wee need to. If you statically type your whole language, well you constrain your whole language. And maybe that's good in some cases, but in other cases you want more power. So Clojure allows you to be limited when you need it and powerful when you need that." - James Reeves
+[https://youtu.be/zznwKCifC1A?t=2685](https://youtu.be/zznwKCifC1A?t=2685)
 
  ## Falko Riemenschneider
 
