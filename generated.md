@@ -202,6 +202,8 @@
 [https://twitter.com/stuarthalloway/status/1091802187964002305](https://twitter.com/stuarthalloway/status/1091802187964002305)
 - "If you don't think managing state is tricky, consider the fact that 80% of all problems in all complex systems are fixed by rebooting." - Stuart Halloway
 [https://twitter.com/stuarthalloway/status/1134806008528809985](https://twitter.com/stuarthalloway/status/1134806008528809985)
+- "I use #Clojure because the fastest way to implement nontrivial projects in #Java is to create Clojure and then use it." - Stuart Halloway
+[https://twitter.com/stuarthalloway/status/1165008710768431104](https://twitter.com/stuarthalloway/status/1165008710768431104)
 
  ## Bruce Hauman
 
@@ -473,6 +475,8 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 - "When you combine two pieces of data you get data. When you combine two machines you get trouble." - Rich Hickey
 [https://www.infoq.com/presentations/datomic-functional-database](https://www.infoq.com/presentations/datomic-functional-database) (14:48)
 
+- "A big deal here is programmable interfaces. And again, for this audience, that's what Clojure has been great at. We've seen this tremendous library growth because Clojure is data-oriented, all of out libraries are data-oriented. And I think we've seen so much more just inherent, transparant, incidental, accidental, no-effort interoperability between data-driven subsystems." - Rich Hickey
+[https://youtu.be/c5p7dEZ73vA?t=2262](https://youtu.be/c5p7dEZ73vA?t=2262)
 
  ## Lawrence Krubner
 
