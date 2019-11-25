@@ -477,6 +477,8 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 
 - "A big deal here is programmable interfaces. And again, for this audience, that's what Clojure has been great at. We've seen this tremendous library growth because Clojure is data-oriented, all of out libraries are data-oriented. And I think we've seen so much more just inherent, transparant, incidental, accidental, no-effort interoperability between data-driven subsystems." - Rich Hickey
 [https://youtu.be/c5p7dEZ73vA?t=2262](https://youtu.be/c5p7dEZ73vA?t=2262)
+- "I don't care how many you really love the syntax of your favorite language. It's inferior to data in every way." - Rich Hickey
+[https://www.infoq.com/presentations/Simple-Made-Easy/](https://www.infoq.com/presentations/Simple-Made-Easy/)
 
  ## Lawrence Krubner
 
@@ -640,6 +642,8 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 [https://youtu.be/4sUaF4m5TWI?t=106](https://youtu.be/4sUaF4m5TWI?t=106)
 - "Building systems that ingest data, transform data, retain data and return data at some point - Clojure is just at this really sweet nexus of being able to leverage the JVM and all the fine libraries that come along with it. Also being able to shed an enormous amount of cognitive load. Object modelling, object hierarchies..." - Derek Troy-West
 [https://youtu.be/4sUaF4m5TWI?t=125](https://youtu.be/4sUaF4m5TWI?t=125)
+- "Every system that I have ever built would have been better off being built in Clojure." - Derek Troy-West
+[https://youtu.be/MnvtPzEH-d8?t=336](https://youtu.be/MnvtPzEH-d8?t=336)
 
  ## Valentin Waeselynck
 
