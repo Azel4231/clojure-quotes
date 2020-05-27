@@ -110,6 +110,11 @@
 [https://youtu.be/bxLnpgnDApg?t=1895](https://youtu.be/bxLnpgnDApg?t=1895)
 - "With Clojure you are bringing a gun to a knife fight" - Neal Ford
 
+ ## Brian Goetz
+
+- "'What is your favorite non-Java JVM language?' 'That one's a pretty easy one and that's Clojure. And the reason for that is that I think Clojure is one of the few production quality, serious JVM languages that isn't just 'Let's do Java better.''" - Brian Goetz
+[https://www.twitch.tv/nipafx/clip/BloodyUglySharkFailFish](https://www.twitch.tv/nipafx/clip/BloodyUglySharkFailFish)
+
  ## Stuart Halloway
 
 - "If you have more things than names, your design is broken" - Stuart Halloway

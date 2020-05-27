@@ -237,6 +237,7 @@
 #:clojure-quotes.core{:text "A big deal here is programmable interfaces. And again, for this audience, that's what Clojure has been great at. We've seen this tremendous library growth because Clojure is data-oriented, all of out libraries are data-oriented. And I think we've seen so much more just inherent, transparant, incidental, accidental, no-effort interoperability between data-driven subsystems." :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://youtu.be/c5p7dEZ73vA?t=2262"}}
  #:clojure-quotes.core{:text "Every system that I have ever built would have been better off being built in Clojure." :quotee "Derek Troy-West", :reference #:clojure-quotes.core{:url "https://youtu.be/MnvtPzEH-d8?t=336"}}
  #:clojure-quotes.core{:text "I don't care how many you really love the syntax of your favorite language. It's inferior to data in every way." :quotee "Rich Hickey", :reference #:clojure-quotes.core{:url "https://www.infoq.com/presentations/Simple-Made-Easy/" :time="40:12"}}
+ #:clojure-quotes.core{:text "'What is your favorite non-Java JVM language?' 'That one's a pretty easy one and that's Clojure. And the reason for that is that I think Clojure is one of the few production quality, serious JVM languages that isn't just 'Let's do Java better.''" :quotee "Brian Goetz", :reference #:clojure-quotes.core{:url "https://www.twitch.tv/nipafx/clip/BloodyUglySharkFailFish"}}
 
 #_(comment #:clojure-quotes.core{:text "" :quotee "", :reference #:clojure-quotes.core{:url ""}})
 
