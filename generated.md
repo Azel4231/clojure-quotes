@@ -516,7 +516,7 @@ That's not actually a knowable thing. That's phooey." - Rich Hickey
 - "The data parts of Clojure are fantastic. They allow us to get an amount of reuse that I never saw in any OO system I reused. Which was always the promise: there's this object and I can use it in lots of different ways. And I have not found that to be the case in practice. Whereas I find that the data centric approach and the generic programming model that Clojure provides to provide a tremendous amount of reuse." - Alex Miller
 [https://www.infoq.com/presentations/clojure-spec](https://www.infoq.com/presentations/clojure-spec) (6:40)
 
-- "A lot of big programs have some level of dynamicity in them. When you have a static type system you really have to build some sort of flexible system inside your program. Clojure does kind of the opposite. Y" - Alex Miller
+- "A lot of big programs have some level of dynamicity in them. When you have a static type system you really have to build some sort of flexible system inside your program. Clojure does kind of the opposite." - Alex Miller
 [https://youtu.be/tEWSw8H9KJU?t=689](https://youtu.be/tEWSw8H9KJU?t=689)
 - "Clojure is the least worst programming language I’ve ever used." - Alex Miller
 [https://twitter.com/puredanger/status/1054956529244426240](https://twitter.com/puredanger/status/1054956529244426240)
