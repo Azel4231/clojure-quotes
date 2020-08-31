@@ -43,6 +43,11 @@
 - "What I like most about Clojure is that it is fun to use!" - Sean Corfield
 [https://www.quora.com/What-do-you-like-the-most-in-Clojure-How-did-you-find-it](https://www.quora.com/What-do-you-like-the-most-in-Clojure-How-did-you-find-it)
 
+ ## Dragan Djuric
+
+- "I never perfectly understand the problem while I'm solving it. My code materializes my understanding, so it's never perfect either. As my understanding improves, the code follows it. For me, it's important that the programming language supports that fluidity. #Clojure" - Dragan Djuric
+[https://twitter.com/draganrocks/status/1300092670153547782](https://twitter.com/draganrocks/status/1300092670153547782)
+
  ## Oliver Eidel
 
 - "The learning curve is significant but the advantages are tremendous. I wholeheartedly recommend learning Clojure even if you're not allowed to use it at your job. It sounds cliché, but it will make you a better programmer for sure." - Oliver Eidel
