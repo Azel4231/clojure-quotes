@@ -215,7 +215,7 @@
 - "I use #Clojure because the fastest way to implement nontrivial projects in #Java is to create Clojure and then use it." - Stuart Halloway
 [https://twitter.com/stuarthalloway/status/1165008710768431104](https://twitter.com/stuarthalloway/status/1165008710768431104)
 - "#Clojure has a 10+ year record of stability that absolutely crushes the shiny-chasing JS ecosystem. Don't make your customer struggle with that needless churn." - Stuart Halloway
-[https://twitter.com/stuarthalloway/status/1165008710768431104](https://twitter.com/stuarthalloway/status/1423009158425677830)
+[https://twitter.com/stuarthalloway/status/1423009158425677830](https://twitter.com/stuarthalloway/status/1423009158425677830)
 
  ## Bruce Hauman
 
